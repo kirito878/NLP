@@ -4,3 +4,5 @@ __pycache__/
 *.vscode/
 
 hw1/*.json
+
+hw1/glove.*

@@ -1,0 +1,1444 @@
+id	source	utterance	classes
+356	6	Start by reading the preliminary information	OTHER
+357	6	"""Hello Ms. Klein, I am responsible for you in the emergency room today. What can I do for you?"""	OTHER
+358	6	Since yesterday afternoon?	OTHER
+359	6	Hmm, but the shortness of breath only came while you were sleeping, when you lay down?	OTHER
+360	6	Have you ever laid down during the day when you feel so bad?	OTHER
+361	6	And how did it start? They went jogging but everything was ok and after that...	OTHER
+362	6	And then all of a sudden?	MS
+363	6	And lately, have you had any infection or anything recently?	PH
+364	6	Anyone in your area?	PH
+365	6	Nobody at work either?	PH
+366	6	Also sputum?	PH
+367	6	And do you have a fever too?	SR
+368	6	And what did you take?	SR
+369	6	Are you taking any other medications?	AM
+370	6	So if necessary, nothing regular?	AM
+371	6	Do you know what you're taking?	AM
+372	6	Ok, but your blood pressure was currently good, so are you taking it regularly?	AM
+373	6	Have you never had any side effects from the medication?	OTHER
+374	6	Do you have any allergies?	AM
+375	6	No medication, no hay fever?	AM
+376	6	Ok, and do you have any other pre-existing conditions? You have high blood pressure...	PH
+377	6	Are you taking anything for anemia?	PH
+378	6	Are you still bleeding at the moment? Right now too, okay.	OTHER
+379	6	And no other previous illnesses?	PH
+380	6	Anything known in the family?	SF
+381	6	On the heart, lungs...	SF
+382	6	Have you traveled recently?	OTHER
+383	6	And also no contact with any sick people?	OTHER
+384	6	What do you do for a living?	SF
+385	6	Ok, you don't have one either...	SF
+386	6	But now you don't have any pressure on your chest or anything like that?	OTHER
+387	6	In the right side?	OTHER
+388	6	No (laughs)	OTHER
+389	6	What is the best storage for it?	OTHER
+390	6	Ok, but you don't have anything else on your back? So this is really breathing?	OTHER
+391	6	Ok, so you didn't misspeak or anything?	OTHER
+392	6	Do you have any other complaints anywhere else? So you now have breathing-dependent symptoms	MS
+393	6	Have you ever had this type of headache?	OTHER
+394	6	Ok, that's all, but it's something you don't know about yourself	OTHER
+395	6	And otherwise, any burning or blood when urinating?	SR
+396	6	Ok, so no infection like that?!	SR
+397	6	And is there anything that makes you breathe better? Have you tried anything there?	OTHER
+398	6	And are you not aware of any coagulation disorders?	PH
+399	6	Have you noticed heart palpitations or extreme palpitations?	SR
+400	6	But you didn't faint?	MS
+401	6	And haven't you even had one yet?	MS
+402	6	How did high blood pressure become known?	MS
+403	6	So even during a check-up, you had no complaints.	MS
+404	6	And haven't you been exposed to any stress recently?	SF
+405	6	Has your weight been consistent?	SR
+406	6	And haven't you had a fever recently?	SR
+407	6	Do you also have difficulty swallowing?	OTHER
+408	6	And some kind of earache?	OTHER
+2448	40	Did it just come tonight?	MS
+2449	40	And all the days before that were completely normal?	OTHER
+2450	40	And did you have to go to the toilet last night?	OTHER
+2451	40	And also the nights before?	OTHER
+2452	40	And did you have shortness of breath when you were lying in bed or when you went to the toilet?	OTHER
+2453	40	Ok I understand. But as you walk it gets worse or does it...?	MS
+2454	40	Ok, but you always have to raise your upper body further?	MS
+2455	40	Do you have... how many pillows do you sleep with at night?	OTHER
+2456	40	Oh, then you didn't sleep in bed?	OTHER
+2457	40	Yes, but was that the first time?	OTHER
+2458	40	And did you have any other... Did you have swollen legs or something like that?	SR
+2459	40	It doesn't look swollen now	OTHER
+2460	40	Never?	OTHER
+2461	40	And have you never had any other problems when moving around, shopping, or going for a walk?	OTHER
+2462	40	What kind of medication are you taking?	AM
+2463	40	And what... how long have you been taking this for your diabetes?	OTHER
+2464	40	And you never take anything else? Don't you take anything?	AM
+2465	40	Have you ever had other illnesses or previous illnesses?	PH
+2466	40	What kind of surgeries did you have?	PH
+2467	40	Thyroid out and now you're taking thyroid medication?	AM
+2468	40	And cesarean section. How many children do you have?	SF
+2469	40	Four children?	OTHER
+2470	40	And the others without a cesarean section?	OTHER
+2471	40	And how old are the children?	OTHER
+2472	40	And do you live alone or with your husband?	SF
+2473	40	And the children then live with you on the farm?	OTHER
+2474	40	Does your husband or your parents have any pre-existing conditions? In the family?	SF
+2475	40	Very good, that's what you want	OTHER
+2476	40	And you have... What do you do to exercise other than work?	SF
+2477	40	Yes, right? Are you always working there? Still working completely?	SF
+930	14	Start by reading the preliminary information	OTHER
+931	14	"""Good morning Mr. Wagner, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+932	14	Cut through security question in the suspected diagnosis	OTHER
+933	14	Well, Mr. Wagner, now I would like to ask you a few more questions	OTHER
+934	14	How are you feeling at the moment?	MS
+935	14	And is this a rotary vertigo or a swivel vertigo? How would you describe that?	OTHER
+936	14	Ok, then that’s where it all comes together?	OTHER
+937	14	Yes / Yes. I understand. And what about the dizziness and you've only had it since the weekend? Or was that already before?	MS
+938	14	How old are you now if I may ask?	OTHER
+939	14	Ok, that was a long time ago then?	OTHER
+940	14	Do you have any previous illnesses? Or have you ever been to the hospital? Have you had any surgeries?	PH
+941	14	But is there anything familiar in your heart?	PH
+942	14	Nothing at all?	PH
+943	14	So as far as you know?	PH
+944	14	Are you taking any medications?	AM
+945	14	Are you not taking any medication at all?	AM
+946	14	So it's not irregular either? Didn't take anything today?	AM
+947	14	Do you have any allergies? Is there anything known? Against medication?	AM
+948	14	Now if you imagine again you are climbing the stairs. How far would you go...how many more floors would you be able to get there? One floor, or…?	OTHER
+949	14	One floor. Half a floor? And then you get shortness of breath?	OTHER
+950	14	And you also said you had palpitations over the weekend? Do you still have that now? Or do you feel somehow restless inside?	SR
+951	14	Or did you also feel that it was somehow irregular or that it was something like a heart stumbling?	SR
+952	14	In the stomach? OK. How long have you had this?	SR
+953	14	A pressure pain? Also similar to heartburn or different?	SR
+954	14	Different? Was it that radiant or more so at one point?	SR
+955	14	And then that went away? Or do you think it has become stronger with exercise?	MS
+956	14	Did it get better with exercise?	MS
+957	14	Everything together? Just completely different than what you're used to?	MS
+958	14	Was an EKG done by your family doctor?	OTHER
+959	14	Not? What else did I want to ask you... Have you noticed that you have kind of thick legs? That you store more water there?	SR
+960	14	Neither?	SR
+961	14	Or that you have to go to the toilet more often at night?	OTHER
+962	14	This can have various causes	OTHER
+963	14	How often would you roughly estimate? How many times do you have to go out?	OTHER
+964	14	3 times? OK.	OTHER
+965	14	And you've only had shortness of breath since the weekend? So it wasn't like that before?	MS
+966	14	And the shortness of breath does it somehow depend on what position you are in? Whether you are upright or lying down?	MS
+967	14	Is it always the same?	MS
+968	14	Is it stronger?	MS
+969	14	So it's not like if you straighten up it will get better?	MS
+970	14	It is not like this?	MS
+971	14	Ok, then I understand you correctly. Are you a smoker or have you ever smoked?	SF
+972	14	Good, but not like that now?	SF
+973	14	OK very good. Do you know if you have high blood pressure in any way? Do you have high blood pressure? Do you know anything about this?	PH
+974	14	And you said you don't take any medication?	AM
+1440	22	Are you also experiencing this dizziness at the moment?	MS
+1441	22	Do you have pain anywhere?	MS
+1442	22	Do you eat less or more or do you have less appetite?	OTHER
+1443	22	Do you still have an appetite?	OTHER
+1444	22	Do you take any medications?	AM
+1445	22	What kind of medication did they prescribe?	OTHER
+1446	22	And when you were with the doctor, what was the topic? What did the doctor mention?	OTHER
+1447	22	Are there any noticeable illnesses that were common in your family? At her parents?	SF
+1448	22	Are you a Smoker?	SF
+1449	22	And do you drink alcohol?	SF
+1450	22	How much?	OTHER
+1451	22	Are you able to breathe well at the moment?	OTHER
+1452	22	Do you have pain when you breathe in and breathe out?	OTHER
+1453	22	Have you had an allergy?	AM
+1454	22	Have you ever noticed that your legs were swollen?	SR
+1455	22	But now again about the stomach. Do you have the feeling that something is pressing?	OTHER
+1456	22	Even if you haven't eaten, does it feel like it?	OTHER
+1457	22	And do you have any problems with bowel movements? Did you notice anything? Color, consistency?	SR
+1458	22	Have you been feeling nauseous lately to the point where you've vomited?	OTHER
+1459	22	Are there any other abnormalities? Any tingling in your hands or feet? Pain when urinating?	SR
+1460	22	It's not painful now, is it?	MS
+1461	22	Otherwise, in terms of how your body feels, are you reasonably mobile? Everything OK?	OTHER
+1462	22	Stop sleeping?	OTHER
+1463	22	Are you having these symptoms for the first time? Has something like this ever happened to you? Something like that?	MS
+1464	22	And you had something similar? And also fainted?	OTHER
+1465	22	And since you mentioned the word stroke earlier, are you worried because someone in your family has had a stroke?	OTHER
+1466	22	That was when?	OTHER
+1467	22	And are you still in pain at the moment?	MS
+1468	22	Have you had a headache in the last few days? Any signs of infection? Cough, mucous throat?	OTHER
+1469	22	And do you have this tingling feeling at the moment too?	SR
+1470	22	In the hands and in the feet you say. But not in the arms, upper arms or thighs or anything like that?	OTHER
+1471	22	Do you usually do sports?	SF
+1472	22	Are you actually sporty?	OTHER
+1473	22	Are you taking any medicines?	AM
+1474	22	Do you have any known allergies?	AM
+1475	22	Do you smoke?	SF
+1476	22	And alcohol?	SF
+1477	22	But you can move your fingers and toes normally, right?	OTHER
+1478	22	And have you noticed anything else that you want to get rid of? Any abnormalities? Pains? Something on the skin?	OTHER
+1479	22	What do you do for a living, if I may ask?	SF
+1480	22	Is this the right career for you? Do you have that feeling?	OTHER
+1481	22	Your nightmares aren't about your work either? So you don't think the workload is a reason for your situation now?	OTHER
+1482	22	But that started at some point? So it's been more recently, or how do you describe it?	OTHER
+1483	22	Are there any illnesses in your family?	SF
+1484	22	Do you feel like you're suffocating? Is the act of taking a breath so bad that it...?	OTHER
+1485	22	So you say you have to urinate often, right?	OTHER
+1486	22	And painful? does it hurt when urinating?	SR
+1487	22	And the urine isn't strangely colored or has a strong smell?	SR
+1488	22	And have you been in contact with doctors recently?	OTHER
+1489	22	So you also find it difficult to climb stairs, for example? Does that make you get out of breath easily?	SR
+1490	22	And have you ever been to a doctor for a heart problem? So specifically because of the heart?	PH
+1491	22	And was there anything known about the kidney?	OTHER
+1492	22	And when was the last time you went to the doctor?	OTHER
+1493	22	And are you in pain right now?	MS
+1494	22	And the way you're lying now is better, I assume? So when they sit upright like that?	OTHER
+1495	22	And if you lay down completely flat, would that be bad?	MS
+1496	22	And are you taking any medication?	AM
+1497	22	And do you have an allergy?	AM
+1498	22	And have you ever had any type of surgery?	PH
+1499	22	But there hasn't been any major surgery in recent years?	OTHER
+1500	22	Do you smoke?	SF
+1501	22	So that bad?	OTHER
+1502	22	Are your legs fat often?	SR
+1503	22	Have you been sick recently? So no infections or anything?	PH
+1504	22	Do you want to get something off your chest? Is anything noticeable?	OTHER
+1505	22	And you said the urine was reddish?	OTHER
+2038	32	Have you eaten anything today?	OTHER
+2039	32	OK. And your values ​​showed that you may have a urinary bladder infection. Do you have any complaints about that?	SR
+2040	32	Have you also noticed that your legs are fat?	SR
+2041	32	Do you also have heart problems?	PH
+2042	32	And that’s new too? This racing heart? You didn't know that before?	OTHER
+2043	32	Do you take any medications?	AM
+2044	32	How is your thyroid condition? Was that always good?	PH
+2045	32	How much are you currently taking?	OTHER
+2046	32	And that's all good at the moment.	OTHER
+2047	32	But your saturation is good under oxygen. But you still feel like it's bad?	OTHER
+2048	32	Do you also have allergies, Ms. Bircher?	AM
+2049	32	Have you noticed in the last few days that you have a fever?	SR
+2050	32	And that you sweated more at night?	SR
+2051	32	Your weight, is it stable?	SR
+2052	32	But have you also eaten less and exercised more?	OTHER
+2053	32	Do you have a farm?	OTHER
+2054	32	What kind of animals do you have?	OTHER
+2055	32	Did this happen on the weekend at work?	OTHER
+2056	32	Again, the medications you take. Euthyrox, what?	AM
+2057	32	OK. Are you doing well with the Metformin?	OTHER
+2058	32	And with the bisoprolol, do you measure your blood pressure regularly?	OTHER
+2059	32	OK, nice.	OTHER
+2060	32	Okay, have you had any further diagnostics?	OTHER
+2061	32	Do you know dizziness, have you ever had it?	MS
+2062	32	Does it depend on the load? That is, when you are stressed, or what work?	MS
+2063	32	So, you rested but it didn't help, or were there any factors that improved the dizziness?	OTHER
+2064	32	The fear of dizziness?	OTHER
+2065	32	But did you have any other stress at the weekend?	SF
+2066	32	And seizures are now dizziness attacks?	OTHER
+2067	32	OK. You were unconscious right now when you went to see your family doctor? Did you feel like you lost time?	MS
+2068	32	Hard to say. And on the weekend? Did you somehow notice that you were dizzy or did you wake up on the floor?	OTHER
+2069	32	Not that one. What about your pre-existing illnesses?	PH
+2070	32	So you had surgery on your appendix and your tonsils?	OTHER
+2071	32	OK. Have you had any other operations?	PH
+2072	32	Do you have high blood pressure?	PH
+2073	32	Are you taking medication?	AM
+2074	32	So you don't take any medication regularly?	OTHER
+2075	32	Other heart diseases?	PH
+2076	32	Diabetes?	OTHER
+2077	32	And that with your family doctor was just taking a blood sample?	OTHER
+2078	32	Don't you have any other problems?	MS
+2079	32	Are there any known illnesses in your family?	SF
+2080	32	OK. Do you have allergies?	AM
+2081	32	May I ask you what you do? Are you still working?	SF
+2082	32	When were you in Syria?	OTHER
+2083	32	So it's been a while. And you live with your wife?	SF
+2084	32	What about luxury foods for you? Alcohol.	SF
+744	12	Start by reading the preliminary information	OTHER
+745	12	"""Good morning Mr. Lehner, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+746	12	Cut through security question in the suspected diagnosis	OTHER
+747	12	Have you ever had something similar before?	MS
+748	12	And can you describe the situation in which this happened? You went to the Tollwood Festival, right?	OTHER
+749	12	And were there a lot of people around you?	OTHER
+750	12	And what kind of feeling do you have in your chest? So you said you have difficulty breathing, are you also in pain?	MS
+751	12	And dizziness?	MS
+752	12	And did it get better when you sat down?	OTHER
+753	12	And how do you feel now?	MS
+754	12	And has that...? Did you say this happened all of a sudden?	MS
+755	12	And have you had any infections recently?	PH
+756	12	Are you taking any medicines?	AM
+757	12	Are there any previous illnesses in the family?	SF
+758	12	And how is your blood pressure? Is otherwise normal? Do you know that?	PH
+759	12	And do you have allergies?	AM
+760	12	So you don't take any other medication?	AM
+761	12	Do you generally feel a bit sick right now? So you have a general feeling of illness? Or are your symptoms limited to shortness of breath and dizziness?	OTHER
+762	12	Do you feel like your heart is beating irregularly?	SR
+763	12	Have you ever had a thrombosis?	PH
+764	12	No cough or runny nose lately?	PH
+765	12	And what's it like when you're lying so flat?	MS
+766	12	Is that going well?	MS
+767	12	And you said you've had something like this before?	MS
+768	12	But not quite as strong?	MS
+769	12	Were there similar situations in which this occurred? So you were somehow surrounded by a lot of people? Or what kind of situations were those? Can you describe that?	OTHER
+770	12	Do you think about it a lot when you're out and about?	OTHER
+771	12	And then what is your first reaction? What do you do when you realize this is coming? So sit down?	OTHER
+772	12	And have you ever seen a doctor before?	OTHER
+773	12	And have you asked him about it too?	OTHER
+774	12	And it always happened so abruptly?	OTHER
+775	12	And but you didn't faint?	OTHER
+776	12	Do you remember everything too?	OTHER
+777	12	Do you start sweating too? So do you notice that?	OTHER
+778	12	And cold sweat?	OTHER
+779	12	And do you have a lot of stress?	SF
+780	12	And did you ever have that as a child?	OTHER
+781	12	And any congenital malformations?	OTHER
+782	12	And a similar symptom, does it run in your family? So is there anyone in the family who has this too?	OTHER
+2117	34	Do you have pain?	MS
+2118	34	Have you felt dizzy lately or have you often had black vision?	MS
+2119	34	Have you had an infection in the last few weeks?	PH
+2120	34	Or an operation where you were bedridden for a long time?	PH
+2121	34	What did you have six months ago?	OTHER
+2122	34	Do you have any previous illnesses?	PH
+2123	34	Have you ever had other operations?	PH
+2124	34	Have you ever had heart problems?	PH
+2125	34	Is anything already known? Or with the lungs?	OTHER
+2126	34	Have you ever had a thrombosis?	PH
+2127	34	Do you regularly take medication?	AM
+2128	34	Is there a family history. Were there any hereditary diseases?	SF
+2129	34	Did you die earlier? So the aunts?	OTHER
+2130	34	Was there diabetes in the family?	SF
+2131	34	How is your body weight? Is that constant for you?	SR
+2132	34	Do you have night sweats? So you have to change your pajamas?	SR
+2133	34	Have there been any changes in your urine or stool?	SR
+2134	34	Does that mean you don’t have to go to the toilet at night?	OTHER
+2135	34	Do you also have pressure on your chest?	OTHER
+2136	34	Do you often have heart palpitations or stumbling?	SR
+2137	34	Do you... Do you have an underactive or overactive thyroid?	PH
+2138	34	How are you now?	MS
+2139	34	And do you feel like things have improved now that you're lying down?	OTHER
+2140	34	Do you have pain?	MS
+2141	34	When inhaling or exhaling?	OTHER
+2142	34	Was this sudden? Or has it been a long time since you had some kind of shortness of breath?	MS
+2143	34	Have you had an infection recently?	PH
+2144	34	Or fever?	SR
+2145	34	Do you have a fever now?	OTHER
+2146	34	Have you had any surgery in the last few weeks or have you been bedridden for a long time?	PH
+2147	34	Do you have any previous illnesses?	PH
+2148	34	What kind of medication do you take?	AM
+2149	34	But you actually only take medication for your blood pressure? Otherwise you don't actually have any?	OTHER
+2150	34	Have you had any operations?	PH
+2151	34	Do you have a known clotting disorder?	PH
+2152	34	Or in the family?	SF
+2153	34	Have you had any other problems with your thyroid? An over- or under-function?	PH
+2154	34	There were no problems with the heart or lungs either?	PH
+2155	34	For example, you didn't have a thrombosis or anything like that?	PH
+2156	34	Do you have allergies?	AM
+2157	34	Are there certain hereditary diseases in the family?	SF
+2158	34	Or did someone young die?	SF
+2159	34	Known about diabetes?	PH
+2160	34	Has your body weight been consistent recently?	SR
+2161	34	Sweating at night. Did you just have it that night or have you had it before?	SR
+2162	34	Do you now have to go to the toilet more often at night?	OTHER
+2163	34	Is it better for you if you... So does the pain get better when you lie down?	MS
+2164	34	Has anyone else in the family had a heart attack, for example?	SF
+2165	34	Have you had a long flight recently?	SF
+2166	34	Do you no longer feel as fit as before? Such performance. So your performance has decreased?	SR
+2167	34	Do you have pain?	MS
+2168	34	Do you otherwise have pain? So you described the thick legs	OTHER
+2169	34	And what else in the chest area? Do you have anything else?	OTHER
+2170	34	How many floors can you manage?	OTHER
+2171	34	Was this sudden? Or how long has it increased over a few years?	MS
+2172	34	Have you recently had an infection, or flu, or...?	PH
+2173	34	Have you had an operation in the last few weeks?	PH
+2174	34	Have you had any other operations?	PH
+2175	34	Have you been bedridden in any way lately?	PH
+2176	34	Bedridden or have you had a long flight?	OTHER,SF
+2177	34	Do you have any other previous illnesses?	PH
+2178	34	So do you take medication with your heart?	AM
+2179	34	And now your blood pressure… Do you know what it is now?	PH
+2180	34	And it's a drug. And do you otherwise take aspirin, for example?	OTHER
+2181	34	Do you have allergies?	AM
+2182	34	Have you had any other problems with your thyroid? An over- or under-function?	PH
+2183	34	Is everything else OK with your lungs?	OTHER
+2184	34	Were there or are there any hereditary diseases in your family?	SF
+2185	34	Do you have siblings?	SF
+2186	34	Do you live at home with your parents, or...?	OTHER
+2187	34	Do you have children?	SF
+2188	34	Have you gained weight recently?	SR
+2189	34	Do you sweat a lot at night?	SR
+2190	34	But you meant that you often have to go to the toilet at night?	OTHER
+2191	34	Have there been any other changes with your bowel movements or urine?	SR
+2192	34	How are you currently feeling?	MS
+2085	33	Start by reading the preliminary information	OTHER
+2086	33	"""Good morning Mr. Wagner, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+2087	33	Cut through security question in the suspected diagnosis	OTHER
+2088	33	Do you know dizziness, have you ever had it?	MS
+2089	33	Does it depend on the load? That is, when you are stressed, or what work?	MS
+2090	33	So, you rested but it didn't help, or were there any factors that improved the dizziness?	OTHER
+2091	33	The fear of dizziness?	OTHER
+2092	33	But did you have any other stress at the weekend?	SF
+2093	33	And seizures are now dizziness attacks?	SF
+2094	33	OK. You were unconscious right now when you went to see your family doctor? Did you feel like you lost time?	MS
+2095	33	Hard to say. And on the weekend? Did you somehow notice that you were dizzy or did you wake up on the floor?	OTHER
+2096	33	Not that one. What about your pre-existing illnesses?	PH
+2097	33	So you had surgery on your appendix and your tonsils?	PH
+2098	33	OK. Have you had any other operations?	PH
+2099	33	Do you have high blood pressure?	PH
+2100	33	Are you taking medication?	AM
+2101	33	So you don't take any medication regularly?	AM
+2102	33	Other heart diseases?	PH
+2103	33	Diabetes?	OTHER
+2104	33	Not known.	OTHER
+2105	33	And that with your family doctor was just taking a blood sample?	OTHER
+2106	33	Then it went boom.	OTHER
+2107	33	Don't you have any other problems?	MS
+2108	33	Are there any known illnesses in your family?	SF
+2109	33	OK. Do you have allergies?	AM
+2110	33	No Neither.	OTHER
+2111	33	May I ask you what you do? Are you still working?	SF
+2112	33	When were you in Syria?	SF
+2113	33	So it's been a while. And you live with your wife?	SF
+2114	33	What about luxury foods for you? Alcohol.	SF
+2115	33	Every day, lunchtime, evening?	SF
+2116	33	OK.	OTHER
+409	7	And now you're still not feeling well, are you?	MS
+410	7	Can I do something urgently for you?	OTHER
+411	7	Can you tell me where exactly it hurts?	OTHER
+412	7	Can you tell me where exactly the sting is?	OTHER
+413	7	More likely overall?	OTHER
+414	7	But do you normally exercise regularly? And do you usually always walk this route?	SF
+415	7	And you didn't overexert yourself?	OTHER
+416	7	You don't look pale now, or has anyone said you're pale lately or something?	OTHER
+417	7	How is your period? Is it, do you have it at the moment and is it perhaps stronger than usual?	OTHER
+418	7	Ok, so not stronger than usual?	OTHER
+419	7	Do you have any known previous illnesses?	PH
+420	7	For example, is there anyone in the family with heart disease or diabetes?	SF
+421	7	Has a coagulation disorder been diagnosed?	OTHER
+422	7	Do you know exactly what kind of coagulation disorder?	OTHER
+423	7	Do you know whether there is too much clotting or not enough?	OTHER
+424	7	Do you normally smoke?	SF
+425	7	Have you recently taken a long-haul flight?	SF
+426	7	Have you been sitting for a while for another reason?	PH
+427	7	Have you injured yourself somewhere?	OTHER
+428	7	Because you're coughing, does anything come out when you cough? Or is it more like you're coughing because you're short of breath?	OTHER
+429	7	Ok, do you have anything like asthma or any other allergies?	AM
+430	7	Then I saw that your pulse was relatively high. Have you always had a normal pulse?	OTHER
+431	7	That was the blood pressure you just said. Do you perhaps have high blood pressure?	PH
+432	7	Do you have any fever, do you feel bad?	SR
+433	7	Have you ever had this checked? Because now when I hear miscarriage and scar bug and coagulation disorder. Have you had this checked to see if it's related?	OTHER
+434	7	Suppose I were to pat you down now. Do you know if it would sound a little duller or brighter on one side? Can you tell me something like that?	OTHER
+435	7	Are you taking any medicines? That would be another important thing.	AM
+436	7	Ok, so nothing for blood pressure or anything?	OTHER
+437	7	If we were already talking about family dispositions. Do any of your relatives have a cholesterol disorder?	OTHER
+438	7	Any other operations that you know of?	PH
+439	7	When you cough and exhale deeply, does it bubble a little? Or just feel like there isn't enough going in.	OTHER
+440	7	So it doesn't feel like a cold?	OTHER
+441	7	Nothing comes out?	OTHER
+442	7	Has anyone recently told you that you have blue lips?	OTHER
+443	7	Is there any way it can get better? You said propping up helps? You also say you don't lie down on purpose.	OTHER
+444	7	What does that mean when it comes to exertion? Can you give me an example of when you experience shortness of breath? With everyday things, or is it when you do sports?	OTHER
+445	7	And now things are getting worse?	OTHER
+446	7	Can you manage the two floors at once or do you have to stop there?	OTHER
+447	7	So it can also happen that you have to stop?	OTHER
+448	7	Do you also have to go to the toilet at night?	OTHER
+449	7	How often approximately?	OTHER
+450	7	3 times? OK	OTHER
+451	7	And, um, could I take a quick look at your neck veins?	OTHER
+452	7	Are they jammed? Do you happen to know that?	OTHER
+453	7	Are not sautéed? OK.	OTHER
+454	7	Then, um, is there anything else that's important to you that you want to say? Otherwise, I would simply ask you a few more questions so that we can clarify a bit what might be going on.	OTHER
+455	7	For example, I have another question about the pain. Are they permanent or only under stress?	MS
+456	7	Can you tell where the pain is exactly?	OTHER
+457	7	Are they just in the middle here or do they sometimes radiate too?	OTHER
+458	7	And um, if you have problems breathing, it's more likely that you just have pressure or do you also hear a rattling sound when you exhale faster, for example. That it's like...like having a bad cold?	OTHER
+459	7	No?	OTHER
+460	7	And you have edema on both sides of your legs?	OTHER
+461	7	Can I take a quick look at the legs?	OTHER
+462	7	Is it sometimes the case that when you are stressed, has anyone ever told you that you have blue lips or blue nails?	OTHER
+463	7	No? Has no one said yet?	OTHER
+464	7	Um, exactly… then I would just be interested to know if you, um, smoke, for example?	SF
+465	7	Hmm, ok and how many times a day did you smoke?	OTHER
+466	7	A box. And how many years have you been smoking like that, a pack?	OTHER
+467	7	Do you drink alcohol?	SF
+468	7	Yes. How much are you drinking there? During the day? So thumbs up	OTHER
+469	7	Ok, then I would be interested to know whether there are heart problems in your family. Especially at younger ages, under 60	SF
+470	7	OK. How old is your father?	OTHER
+471	7	And have you checked to see whether diabetes could also be an issue? I didn't see that in the blood values.	OTHER
+472	7	No, or don't you know?	OTHER
+473	7	Ok, what was that? That's interesting.	OTHER
+474	7	And do you know why they died suddenly?	OTHER
+475	7	Ok, but you don't know exactly what?	OTHER
+476	7	Yes I think so. Of course, that's a stupid, um, very unpleasant situation when two people are doing so badly.	OTHER
+477	7	The last thing I would be interested in is. Do you have allergies, do you know that?	AM
+478	7	Grass or something?	OTHER
+479	7	Um... other than that... have you had any kind of surgery recently?	PH
+480	7	At the knees?	OTHER
+481	7	How long ago was that?	OTHER
+482	7	Ok, last thing. Have you recently taken a long flight or sat on a train or plane for a long time?	PH
+483	7	The last question, what exactly do you work on?	SF
+484	7	Ok, do you sit there a lot?	OTHER
+485	7	What happened in a few hours? Excuse me	OTHER
+486	7	Ok, and now you're lying there because something hurts you?	MS
+487	7	Can you tell where exactly it hurts or how it hurts?	OTHER
+488	7	Where do you have to press in there?	OTHER
+489	7	And you said, did you too?	OTHER
+490	7	Not sweating? Yes, okay.	OTHER
+491	7	And um, when you breathe in deeper, do you hear any sounds? Do you hear anything there?	OTHER
+492	7	Does it squeak or whistle?	OTHER
+493	7	Have you injured yourself somehow? Did you somehow fall or get stuck?	OTHER
+494	7	Was it still good while jogging?	OTHER
+495	7	You said after morning shift. What do you do for a living?	SF
+496	7	And um, can you somehow describe the pain? Are they stabbing or rather oppressive? Or can it radiate or is it very selective?	OTHER
+497	7	Is it okay to hold your breath?	OTHER
+498	7	May I ask, this may have nothing acutely to do with your things, but do you perhaps have any previous illnesses that are relevant?	PH
+499	7	Ok, so do you object to that?	OTHER
+500	7	If you already bring that up. What kind of medication are you taking?	AM
+501	7	But the headache, did it come first or did the chest pain come first?	OTHER
+502	7	But you don't have to, you don't have a cough or mucus coming out now?	OTHER
+503	7	Do you go to the toilet often at night?	OTHER
+504	7	You don't have thick legs if you run longer or something like that, do you?	SR
+505	7	Um, have you been asked recently that you're very pale or have blue lips or something like that?	OTHER
+506	7	Do you also have something against that?	OTHER
+507	7	Has this been checked by your family doctor?	OTHER
+508	7	And is that still within the framework or is it...	OTHER
+509	7	Are there any family illnesses in your family... have I asked about family illnesses?	SF
+510	7	With your heart or something?	OTHER
+511	7	Have you ever had your sugar looked at?	OTHER
+512	7	Is it OK or is it...?	OTHER
+513	7	Ok, um then I would be interested. They also do not have compressed neck veins. You would see that, right?	OTHER
+514	7	Did he do an EKG too?	OTHER
+515	7	Ok lastly, do you have any allergies or asthma or anything?	AM
+516	7	And do you smoke?	SF
+517	7	Ok, and if you're going through menopause now, don't you take any contraceptives or anything like that? Hormonal or something?	OTHER
+518	7	Have you had any injuries or surgery recently?	PH
+519	7	Did you take a long-haul flight?	SF
+520	7	So you didn't take a trip abroad or anything like that?	OTHER
+521	7	Well then the last thing I would like to know is, you said the pain gets better when you put pressure on it?	OTHER
+522	7	But the pressure on the side where the pain is?	OTHER
+523	7	So not on the other side?	OTHER
+524	7	It hurts and hurts on the right. Then you press on the right and it gets better?	OTHER
+525	7	And now about the body position. Does it get worse when you lie down? So when you're completely down?	MS
+526	7	Because they said it gets better with support. Is it because of the support or is it because the head is higher?	OTHER
+527	7	Any other things that make it better or worse?	OTHER
+1641	26	Start by reading the preliminary information	OTHER
+1642	26	"""Good morning Mr. Lehner, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+1643	26	Cut through security question in the suspected diagnosis	OTHER
+1644	26	So, Mr. Lehner, the dizziness is still there now?	OTHER
+1645	26	Have you ever had something like this?	MS
+1646	26	And did it start all of a sudden or started slowly?	OTHER
+1647	26	So that happened so suddenly?	OTHER
+1648	26	Did you do anything special beforehand? Eaten anything?	OTHER
+1649	26	And has this happened before?	MS
+1650	26	Have you ever been to the doctor about this?	OTHER
+1651	26	Were you hyperventilating a bit before you felt that tingling sensation? So just breathed very, very deeply and quickly?	OTHER
+1652	26	You're 38 now, right?	OTHER
+1653	26	Do you have any previous illnesses?	PH
+1654	26	Nothing known, that means everything is good. You said you didn't have diabetes and had it checked several times	OTHER
+1655	26	Are you taking any medicines?	AM
+1656	26	Do you smoke?	SF
+1657	26	Do you drink alcohol?	SF
+1658	26	Does that mean you have nothing to do with drugs or anything like that?	SF
+1659	26	Are you also in pain right now?	MS
+1660	26	Headache? Even since the dizziness came, right?	OTHER
+1661	26	Has the emergency doctor given you anything yet? Against this air need and stuff? Or did he just bring you to us?	OTHER
+1662	26	Okay, so what I would do now would be to take your blood because we're doing it in the emergency room, okay?	OTHER
+1663	26	And then we'll give you some oxygen to help you calm down. The most important thing is that you try to calm down. You are in very good hands with us. This means that if something becomes or should become worse, please contact us. In any case, we'll let you take a look here and see if we can find anything unusual in the blood and then I'll definitely talk to you again. In any case, I can give you the all-clear. I don't think there's anything wrong with you. What you describe, that you have had these attacks several times in such large, public places, suggests something psychological	OTHER
+1664	26	Don't know to what extent you can identify with this?	OTHER
+1665	26	Have you not had any operations in the past?	PH
+1666	26	That's very good	OTHER
+1667	26	Exactly what is important is that you stay with us now and, as I said, if anything gets worse, please contact us. And otherwise I can definitely give you the all-clear	OTHER
+1668	26	As I said, we'll come back to you, take another blood sample and then we'll talk briefly again and if anything happens, let us know, OK?	OTHER
+1298	19	"""Well, Ms. Bircher, you say it started this morning. Was there a trigger for it?"""	OTHER
+1299	19	"""Was it when you stood up, or was it at rest?"""	OTHER
+1300	19	"""Tonight already?"""	OTHER
+1301	19	"""How many times did you have to go out? Do you know that?"	OTHER
+1302	19	"""Over 5 times? Over 10 times?"""	OTHER
+1303	19	"""And you always had to go to the toilet? So something happened?"""	OTHER
+1304	19	"""Did you have any other symptoms while you were having this shortness of breath? Pain, nausea?"""	MS
+1305	19	“Have you ever had something like this?”	MS
+1306	19	“Do you have any pre-existing heart or lung conditions?”	PH
+1307	19	"""Do you take any medicine?"""	AM
+1308	19	"""What are you taking? Eltorozin?"""	OTHER
+1309	19	"""And otherwise?"""	OTHER
+1310	19	“Are you taking any other Bisolol?”	OTHER
+1311	19	“But only the Bisolol for blood pressure?”	OTHER
+1312	19	"""Do you have allergies?"""	AM
+1313	19	"""Do you smoke?"""	SF
+1314	19	"""And alcohol? How much do you drink?"""	SF
+1315	19	"""Once a day, or twice, right?"""	OTHER
+1316	19	"""So occasionally?"""	OTHER
+1317	19	“Do you have previous illnesses such as your thyroid, high blood pressure and diabetes?”	PH
+1318	19	“Have you ever had an operation?”	PH
+1319	19	"""And everything always went well? Tolerated anesthesia well?"""	OTHER
+1320	19	"""What did you do for a living? Or what do you do for a living"""	SF
+1321	19	“Are you a farmer?”	OTHER
+1322	19	"""A lot of work. Physically demanding?"""	OTHER
+1323	19	"""And you're married then?"""	SF
+1324	19	“And do you have children even if they had a cesarean section?”	SF
+1325	19	"""Yeah, there's probably a lot going on at home"""	OTHER
+1326	19	"""Coming back to shortness of breath. Can you tell whether it gets worse when you're at rest or when you're exerting yourself when you climb stairs?"""	MS
+1327	19	"""Did you notice that you sweated a lot during the night or had a fever?"""	SR
+1328	19	"""Have you lost weight recently?"""	SR
+1329	19	"""So it was intentional?"""	OTHER
+1330	19	"""What do you weigh? Or what did you weigh before?"	OTHER
+1331	19	"""So two kilos in a month?"""	OTHER
+1332	19	"""Did you notice something about your legs? That you have water in your legs or that one leg is thicker than the other?"""	SR
+1333	19	“Heart racing or heart palpitations?”	SR
+1334	19	"""You said you didn't have any pain. Not even when breathing?"""	MS
+1335	19	"""You say it started acutely this morning, or before?"""	OTHER
+1336	19	“Have you ever had something like that, Mr. Lehner?”	MS
+1337	19	"""And when it started, it started with dizziness and discomfort and then shortness of breath? Or how would you describe that?"""	OTHER
+1338	19	"""Was there a trigger for this? Did you do anything strenuous, like running?"""	OTHER
+1339	19	"""Were there any other symptoms during this, apart from the dizziness and shortness of breath? Did you feel sick or in pain?"""	MS
+1340	19	"""Eat anything special before?"""	SR
+1341	19	"""No allergies? Do you have any other previous illnesses?"""	AM,PH
+1342	19	“Medications you take?”	AM
+1343	19	"""Do you smoke?"""	SF
+1344	19	"""How much alcohol do you drink?"""	SF
+1345	19	"""What do you do for a living?"""	SF
+1346	19	"""Are you married?"	SF
+1347	19	“And live with your wife?”	OTHER
+1348	19	"""About the shortness of breath again. Have you noticed a loss in weight recently? Or increased fever or sweating?"""	SR
+1349	19	"""How often does that happen? That you have nightmares like that?"""	OTHER
+1350	19	"""Those situations where you get so dizzy, where you've had that before, as you say. Is that in certain situations? When you're out and about or at home?"""	OTHER
+1351	19	"""So in public?"""	OTHER
+1352	19	"""Have you noticed that you're already starting to avoid going out in public?"""	MS
+1353	19	“And has this dizziness already been clarified by your family doctor or something?”	PH
+1354	19	"""Didn't anything come out?"""	OTHER
+1355	19	"""So you went to the cardiologist. And because of the dizziness you also went to the neurologist, ENT or something like that?"""	PH
+1356	19	“Have you ever used other drugs?”	SF
+1357	19	“Don’t smoke cannabis either?”	OTHER
+1358	19	“There are illnesses in the family?”	SF
+1359	19	"""Ok Mr. Wagner, so was it at the weekend, or was it mainly yesterday with the dizziness?"""	OTHER
+1360	19	"""And go black, heart racing?"""	OTHER
+1361	19	"""And the shortness of breath? Was that already there?"""	MS
+1362	19	"""And the shortness of breath came today?"""	MS
+1363	19	"""Are there situations that make this worse? For example, when you climb stairs?"""	OTHER
+1364	19	"""That means how many floors can you climb before you take a break?"""	OTHER
+1365	19	"""And then it's a little better in peace?"""	MS
+1366	19	"""Apart from the dizziness and blackness, do you have any other symptoms? Such as nausea or pain?"""	MS
+1367	19	"""Now and then?"""	OTHER
+1368	19	"""Several times a day?"""	OTHER
+1369	19	"""And how severe is this pressure pain?"""	OTHER
+1370	19	"""unpleasant?"""	OTHER
+1371	19	"""On a scale of 1-10. If 10 is the scariest?"""	OTHER
+1372	19	"""A 7?"""	OTHER
+1373	19	"""Have you had a fever recently? Or increased fever? Or sweating at night?"""	SR
+1374	19	"""Was the sweating so bad that you had to change your nightgown?"""	OTHER
+1375	19	"""Have you lost weight recently?"""	SR
+1376	19	"""In what period? 6 kilos in a month, in two months?"""	OTHER
+1377	19	“Do you have any other previous illnesses?”	PH
+1378	19	“But pre-existing heart conditions or diabetes?”	OTHER
+1379	19	"""Thyroid?"""	OTHER
+1380	19	"""Mr. Wagner, do you take any medication? Regularly?"""	AM
+1381	19	“Does that mean you don’t take anything?”	OTHER
+1382	19	“How is your blood pressure?”	PH
+1383	19	"""When you say from your point of view? Is there anyone who doesn't see it that way?"""	OTHER
+630	10	So it started relatively abruptly this morning, didn't it?	OTHER
+631	10	Ok, so you said you went to the toilet more often? And you couldn't breathe anymore?	OTHER
+632	10	And have you ever had something like this before?	MS
+633	10	Have you had any, a cold, cough, runny nose or something like that?	PH
+634	10	Do you take any medicine?	AM
+635	10	And you also have atrial fibrillation?	PH
+636	10	And now, since this morning or since last night, your pulse has been particularly irregular?	OTHER
+637	10	How is it then? Does it feel like your chest is tight in some way?	OTHER
+638	10	And do you have pain too?	MS
+639	10	Is there any position or anything you can do that will make this better?	OTHER
+640	10	And have you ever had to go to the toilet a lot at night?	OTHER
+641	10	Are there any previous illnesses in your family?	SF
+642	10	Have you ever had any operations?	PH
+643	10	And have you ever had thrombosis?	PH
+644	10	And no heart attack or stroke either?	PH
+645	10	Do you do sports?	SF
+646	10	And have you ever had any heart muscle infections?	PH
+647	10	So you said you take medication for high blood pressure?	AM
+648	10	And is the blood pressure normal now? Do you go to your family doctor regularly?	PH
+649	10	And allergies?	AM
+650	10	And have you been scared to death since this morning?	OTHER
+651	10	Do you also feel like your legs are a bit swollen?	SR
+652	10	And do you have any other complaints?	OTHER
+653	10	But is it better standing upright than lying down?	OTHER
+654	10	Do you feel generally ill?	OTHER
+655	10	I do my best	OTHER
+656	10	And before that, when you're outside a lot, on the move a lot, running a lot, do you get out of breath quickly compared to before?	SR
+657	10	And when it started, you said it started mainly with going to the toilet	OTHER
+658	10	And then what about the dizziness and shortness of breath?	OTHER
+659	10	So that came very suddenly?	MS
+660	10	And back pain or something?	OTHER
+661	10	And are you, you're not falling over?	MS
+662	10	So now you were already dizzy, and then after a while you...	OTHER
+663	10	And do you also have chest pain?	MS
+664	10	And then you passed out at the doctor?	OTHER
+665	10	Do you know how long you lay there?	OTHER
+666	10	And can you remember everything? Or is there a...?	OTHER
+667	10	And so this is the first time you've had something like this? That they tipped over right?	MS
+668	10	Do you have any previous illnesses?	PH
+669	10	High blood pressure? Or are you taking any medication?	AM,PH
+670	10	To sleep. Do you need pillows under your upper body?	OTHER
+671	10	But do you sleep flat or put a few pillows under your head?	MS
+672	10	Do you have to go to the toilet often at night?	OTHER
+673	10	How often do you get up like that?	OTHER
+674	10	And other sugar or something?	OTHER
+675	10	What about this dizziness and shortness of breath? Is it worse when you move?	MS
+676	10	And if you take a break, things get better?	OTHER
+677	10	So you said you don't have any pain or a feeling of pressure in your chest?	OTHER
+678	10	No, so when you develop this shortness of breath and when the dizziness comes	OTHER
+679	10	And these stomach pains are always there? Or also reinforced in the situations?	OTHER
+680	10	Do you ever have dizziness and shortness of breath without it?	OTHER
+681	10	And have you had any coughs, colds recently? Or some kind of infection?	PH
+682	10	With a fever too?	OTHER
+683	10	And do you or your family have any known previous illnesses? So heart attacks?	SF
+684	10	Have you ever had something similar before?	MS
+685	10	And can you describe the situation in which this happened? You went to the Tollwood Festival, right?	OTHER
+686	10	And were there a lot of people around you?	OTHER
+687	10	And what kind of feeling do you have in your chest? So you said you have difficulty breathing, are you also in pain?	MS
+688	10	And dizziness?	MS
+689	10	And did it get better when you sat down?	OTHER
+690	10	And how do you feel now?	MS
+691	10	And has that...? Did you say this happened all of a sudden?	MS
+692	10	And have you had any infections recently?	PH
+693	10	Are you taking any medicines?	AM
+694	10	Are there any previous illnesses in the family?	SF
+695	10	And how is your blood pressure? Is otherwise normal? Do you know that?	PH
+696	10	And do you have allergies?	AM
+697	10	So you don't take any other medication?	AM
+698	10	Do you generally feel a bit sick right now? So you have a general feeling of illness? Or are your symptoms limited to shortness of breath and dizziness?	OTHER
+699	10	Do you feel like your heart is beating irregularly?	SR
+700	10	Have you ever had a thrombosis?	PH
+701	10	No cough or runny nose lately?	PH
+702	10	And what's it like when you're lying so flat?	MS
+703	10	Is that going well?	OTHER
+704	10	And you said you've had something like this before?	MS
+705	10	But not quite as strong?	OTHER
+706	10	Were there similar situations in which this occurred? So you were somehow surrounded by a lot of people? Or what kind of situations were those? Can you describe that?	OTHER
+707	10	Do you think about it a lot when you're out and about?	OTHER
+708	10	And then what is your first reaction? What do you do when you realize this is coming? So sit down?	OTHER
+709	10	And have you ever seen a doctor before?	OTHER
+710	10	And have you asked him about it too?	OTHER
+711	10	And it always happened so abruptly?	OTHER
+712	10	And but you didn't faint?	OTHER
+713	10	Do you remember everything too?	OTHER
+714	10	Do you start sweating too? So do you notice that?	OTHER
+715	10	And cold sweat?	OTHER
+716	10	And do you have a lot of stress?	SF
+717	10	And did you ever have that as a child?	OTHER
+718	10	And any congenital malformations?	OTHER
+2223	36	Start by reading the preliminary information	OTHER
+2224	36	"""Good morning Mr. Albrecht, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+2225	36	Cut through security question in the suspected diagnosis	OTHER
+2226	36	Do you have pain?	MS
+2227	36	Do you otherwise have pain? So you described the thick legs	MS
+2228	36	And what else in the chest area? Do you have anything else?	OTHER
+2229	36	How many floors can you manage?	OTHER
+2230	36	Was this sudden? Or how long has it increased over a few years?	MS
+2231	36	Have you recently had an infection, or flu, or...?	PH
+2232	36	Have you had an operation in the last few weeks?	PH
+2233	36	Have you had any other operations?	PH
+2234	36	Have you been bedridden in any way lately?	PH
+2235	36	Bedridden or have you had a long flight?	PH,SF
+2236	36	Do you have any other previous illnesses?	PH
+2237	36	So do you take medication with your heart?	AM
+2238	36	And now your blood pressure… Do you know what it is now?	PH
+2239	36	And it's a drug. And do you otherwise take aspirin, for example?	PH
+2240	36	Do you have allergies?	AM
+2241	36	Have you had any other problems with your thyroid? An over- or under-function?	PH
+2242	36	Is everything else OK with your lungs?	OTHER
+2243	36	Were there or are there any hereditary diseases in your family?	SF
+2244	36	Do you have siblings?	SF
+2245	36	Do you live at home with your parents, or...?	OTHER
+2246	36	Do you have children?	SF
+2247	36	Have you gained weight recently?	SR
+2248	36	Do you sweat a lot at night?	SR
+2249	36	But you meant that you often have to go to the toilet at night?	OTHER
+2250	36	Have there been any other changes with your bowel movements or urine?	SR
+2251	36	How are you currently feeling?	MS
+2252	36	You don't have any pain or anything now?	MS
+1411	21	Start by reading the preliminary information	OTHER
+1412	21	"""Hello Mr. Wagner, I am responsible for you in the emergency room today. What can I do for you?"""	OTHER
+1413	21	Cut through security question in the suspected diagnosis	OTHER
+1414	21	"""Ok Mr. Wagner, so was it at the weekend, or was it mainly yesterday with the dizziness?"""	OTHER
+1415	21	"""And go black, heart racing?"""	OTHER
+1416	21	"""And the shortness of breath? Was that already there?"""	MS
+1417	21	"""And the shortness of breath came today?"""	MS
+1418	21	"""Are there situations that make this worse? For example, when you climb stairs?"""	OTHER
+1419	21	"""That means how many floors can you climb before you take a break?"""	OTHER
+1420	21	"""And then it's a little better in peace?"""	MS
+1421	21	"""Apart from the dizziness and blackness, do you have any other symptoms? Such as nausea or pain?"""	MS
+1422	21	"""Now and then?"""	MS
+1423	21	"""Several times a day?"""	MS
+1424	21	"""And how severe is this pressure pain?"""	OTHER
+1425	21	"""unpleasant?"""	OTHER
+1426	21	"""On a scale of 1-10. If 10 is the scariest?"""	OTHER
+1427	21	"""A 7?"""	OTHER
+1428	21	"""Have you had a fever recently? Or increased fever? Or sweating at night?"""	SR
+1429	21	"""Was the sweating so bad that you had to change your nightgown?"""	SR
+1430	21	"""Have you lost weight recently?"""	SR
+1431	21	"""In what period? 6 kilos in a month, in two months?"""	SR
+1432	21	“Do you have any other previous illnesses?”	PH
+1433	21	“But pre-existing heart conditions or diabetes?”	OTHER
+1434	21	"""Thyroid?"""	OTHER
+1435	21	"""Mr. Wagner, do you take any medication? Regularly?"""	AM
+1436	21	“Does that mean you don’t take anything?”	AM
+1437	21	“How is your blood pressure?”	PH
+1438	21	"""When you say from your point of view? Is there anyone who doesn't see it that way?"""	PH
+1439	21	"""Maybe me or the family doctor you've already seen?"""	OTHER
+1531	24	Start by reading the preliminary information	OTHER
+1532	24	"""Good morning Ms. Bircher, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+1533	24	Cut through security question in the suspected diagnosis	OTHER
+1534	24	So you say you have to urinate often, right?	OTHER
+1535	24	And painful? does it hurt when urinating?	SR
+1536	24	And the urine isn't strangely colored or has a strong smell?	SR
+1537	24	And have you been in contact with doctors recently?	OTHER
+1538	24	Physical examination is not part of the study, right?	OTHER
+1539	24	So you also find it difficult to climb stairs, for example? Does that make you get out of breath easily?	SR
+1540	24	And have you ever been to a doctor for a heart problem? So specifically because of the heart?	PH
+1541	24	And was there anything known about the kidney?	OTHER
+1542	24	And when was the last time you went to the doctor?	OTHER
+1543	24	And are you in pain right now?	MS
+1544	24	And the way you're lying now is better, I assume? So when they sit upright like that?	OTHER
+1545	24	And if you lay down completely flat, would that be bad?	MS
+1546	24	And are you taking any medication?	AM
+1547	24	And do you have an allergy?	AM
+1548	24	And have you ever had any type of surgery?	PH
+1549	24	But there hasn't been any major surgery in recent years?	PH
+1550	24	Do you smoke?	SF
+1551	24	If I may now summarize again, you have to urinate very often, but it is not painful and it is more comfortable for you to lie upright, i.e. with your upper body elevated.	OTHER
+1552	24	So that bad?	OTHER
+1553	24	Are your legs fat often?	SR
+1554	24	Have you been sick recently? So no infections or anything?	PH
+1555	24	Do you want to get something off your chest? Is anything noticeable?	OTHER
+1556	24	And you said the urine was reddish?	OTHER
+1557	24	But you don't have that kind of pulling, recurring pain?	OTHER
+1558	24	I think so, yes.	OTHER
+1559	24	Yes, I almost assume that you have to stay there for 1-2 days	OTHER
+1560	24	Yes, but perhaps you can organize representation. But I think your health comes first	OTHER
+1561	24	It doesn't happen that quickly	OTHER
+1956	31	Ok, how are you now?	MS
+1957	31	Have you had this before or is it the first time?	MS
+1958	31	And then suddenly this happened, right?	MS
+1959	31	And you weren't sprinting, you were actually jogging normally, and then all of a sudden you had no breath, then your vision went black, so you completely passed out?	OTHER
+1960	31	Ok, and how long were you unconscious?	OTHER
+1961	31	And now you're still having shortness of breath?	OTHER
+1962	31	Heart racing?	SR
+1963	31	And dizziness?	MS
+1964	31	And any other symptoms?	MS
+1965	31	Ok and that didn't happen under load at first?	MS
+1966	31	Any other previous illnesses? Do you have any previous illnesses?	PH
+1967	31	How was this determined?	OTHER
+1968	31	A what did you have? A scraping?	OTHER
+1969	31	And when was that? Six months ago?	OTHER
+1970	31	OK. And do you know what kind of clotting disorder you have?	OTHER
+1971	31	And are you taking any medication?	AM
+1972	31	And but you have never been symptomatic before with this coagulation disorder?	OTHER
+1973	31	So you had a thrombosis at some point, right?	PH
+1974	31	And are there any illnesses in the family?	SF
+1975	31	And before this event, were you somehow, did you have a long-haul flight or something, were you immobile for that long? So you haven't done much?	PH,SF
+1976	31	So you exercise regularly and?	SF
+1977	31	When was your last check-up with your family doctor?	OTHER
+1978	31	Do you have any other symptoms that I haven't asked about yet but that would be important to know?	MS
+1979	31	Have you had an infection recently? Influenza or flu?	PH
+1980	31	Anything else been different in the last few weeks?	OTHER
+1981	31	And this shortness of breath is now since this incident?	MS
+1982	31	And you also have a dry cough.	MS
+1983	31	Do you also have dizziness?	MS
+1984	31	And heart palpitations?	SR
+1985	31	Nausea, not vomiting?	OTHER
+1986	31	Was there anything else besides the clotting disorder that was diagnosed as to why you are having these miscarriages?	OTHER
+1987	31	And what is your condition now? So what are your current complaints?	MS
+1988	31	Where exactly does it sting? Everywhere or Localized?	OTHER
+1989	31	So in the right lower abdomen, right?	OTHER
+1990	31	And it's only right sided?	OTHER
+1991	31	And does it hurt when you breathe out or in?	OTHER
+1992	31	And do you currently have a headache?	OTHER
+1993	31	What kind of pain is this? Pushing, pulling, stabbing?	OTHER
+1994	31	Diffuse? Spread all over your head?	OTHER
+1995	31	And it hasn't gotten stronger and it has remained constant?	OTHER
+1996	31	What did you take?	OTHER
+1997	31	And how long have you had chills? Also since last night?	SR
+1998	31	And you took your temperature too, right?	SR
+1999	31	So again: shortness of breath, heart palpitations too?	SR
+2000	31	Practical when under load?	MS,OTHER
+2001	31	Do you also have dizziness?	MS
+2002	31	And has it been that way for a long time that you can't climb the stairs?	OTHER
+2003	31	So it's since yesterday?	OTHER
+2004	31	And suddenly happened? Didn't you do anything before that could have caused this? For example an exercise, sport or…?	MS,OTHER
+2005	31	And you're just sitting with your upper body raised, so you can't lie down flat?	MS
+2006	31	Do you have any other complaints? Have you had nausea or vomiting?	OTHER
+2007	31	Stomach pain?	OTHER
+2008	31	Otherwise pain when urinating?	SR
+2009	31	Ok, the urine color was normal too?	SR
+2010	31	And somehow your legs are swollen? Or that you don't have to go to the toilet at night?	SR
+2011	31	Do you have any previous illnesses?	PH
+2012	31	What are you getting?	OTHER
+2013	31	And is that set up well?	OTHER
+2014	31	Any other illnesses? Diabetes or some genetics? Asthma?	AM
+2015	31	And any illnesses in the family?	SF
+2016	31	And do you only take medication for high blood pressure?	AM
+2017	31	Ok, and do you still have a headache?	OTHER
+2018	31	Have I forgotten anything that you think is important?	OTHER
+2019	31	OK, then I have no further questions. Unless you have any questions?	OTHER
+2020	31	For a few months. And you have lower leg edema and you have to go to the toilet at night?	OTHER
+2021	31	And since when exactly? So for a few months. Can you say that something happened and then you…?	MS
+2022	31	And that has been the case for a few months and is increasing. So the situation is just getting worse?	OTHER
+2023	31	And are there any previous illnesses in the family in this context? Be it heart disease or genetic heart disease?	SF
+2024	31	And do you have another sister?	SF
+2025	31	And have you already had this clarified? The symptoms? Have you ever been to your family doctor, right?	OTHER
+2026	31	And then she referred you to the hospital?	OTHER
+2027	31	And are you still taking any medications?	AM
+2028	31	Ramipril for the…?	OTHER
+2029	31	Written down by your family doctor? And how long have you been taking it?	OTHER
+2030	31	And has your family doctor ever done a heart examination? Have an ultrasound of your heart?	OTHER
+2031	31	Do you have any comments or anything I forgot about questions that you would say is important to complete the diagnosis. Or something I just didn't ask but is important to you?	SF
+2032	31	Maybe I can just do it again so that I can really rule out all differential diagnoses. Do you have any other symptoms? In other words, have you had vomiting or nausea recently?	MS
+2033	31	Fever or weight loss?	SR
+2034	31	Do you have pain when urinating?	SR
+2035	31	Or had blood in your urine?	SR
+2036	31	Good. Ok, so basically the heart, then the shortness of breath and the lower leg edema are the big problem areas?	OTHER
+2037	31	I still have one thing. An EKG has already been written by the family doctor, right?	OTHER
+2399	39	Start by reading the preliminary information	OTHER
+2400	39	"""Good morning Mr. Albrecht, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+2401	39	Cut through security question in the suspected diagnosis	OTHER
+2402	39	Do you have to get up at night and go to the toilet, right?	OTHER
+2403	39	Ok, and you say it's been like this for several months?	MS
+2404	39	And before that everything was normal?	MS
+2405	39	You didn't have any known heart disease or anything before that?	PH
+2406	39	Did you do a lot of sport before?	SF
+2407	39	And did you have an infection or something? Or were you ever sick?	PH
+2408	39	Have you never been sick in your entire life?	PH
+2409	39	Ok, and then...did you ever have a streptococcal infection? Or some kind of tonsillitis or something?	PH
+2410	39	No? Then you never did any exercise even though you had an infection? In recent years like this?	PH
+2411	39	Then you were always good in bed at home?	PH
+2412	39	And now you have a feeling of pressure and stuff... And do you also have this at rest, or only when you move?	MS
+2413	39	OK and then. So you only notice it when you move or how exactly?	MS
+2414	39	If you go up a flight of stairs, how many stairs would you have to climb before you notice?	OTHER
+2415	39	So after the third floor?	OTHER
+2416	39	And do you have any other previous illnesses?	PH
+2417	39	No asthma?	AM
+2418	39	Do you smoke?	SF
+2419	39	How much approximately?	SF
+2420	39	What's so long-term?	SF
+2421	39	About a packal a day?	SF
+2422	39	For how many years?	SF
+2423	39	Began?	SF
+2424	39	Ok, so about five years now?	SF
+2425	39	And otherwise you have no pain and nothing is different except that your legs are a little swollen and you have a feeling of pressure on your heart as soon as you move a lot and after the third floor you get something like this...	MS,SF
+2426	39	Do you really have to breathe, right?	MS,SF
+2427	39	And then are you afraid of it, right?	MS
+2428	39	Ok, and do you sometimes not leave the house because you're afraid that this will happen when you come back?	MS
+2429	39	No?	MS
+2430	39	And do you ever have a headache or something?	OTHER
+2431	39	More than before?	OTHER
+2432	39	Exactly and I have now read that you have been taking this new medication for some time?	AM
+2433	39	Exactly! And how long have you been taking it? And do you know why your family doctor wrote this down for you?	AM
+2434	39	And is there anyone in the family who also has high blood pressure?	SF
+2435	39	Mom, Dad, everyone healthy?	SF
+2436	39	And why?	SF
+2437	39	Ok, and do you have any siblings?	SF
+2438	39	And did the family doctor tell you why he wrote down the ramipril?	SF
+2439	39	So because of the increased blood pressure. Did he also say why it might be elevated?	SF
+2440	39	And was the elevated blood pressure only discovered a few months ago? Or was it already increased before?	SF
+2441	39	Since when has he been crazy like that?	SF
+2442	39	Did you notice anything else? For example, that the veins are coming out a bit or something like that?	PH
+2443	39	No? Haven't you noticed anything that's different from before?	PH
+2444	39	Do you have any allergies?	AM
+2445	39	Have you ever had any surgery?	PH
+2446	39	At both?	PH
+2447	39	What did you do that made it so...?	PH
+176	4	So you had shortness of breath and then somehow had Herstlopern, before?	SR
+177	4	But you didn't have anything before, then suddenly this happened?	MS
+178	4	Been running for a while, right?	OTHER
+179	4	Ok, and you didn't exert yourself excessively, that was your normal running pace?	OTHER
+180	4	And have you noticed any sweat? So cold sweat, not the normal sports sweat	OTHER
+181	4	And when you woke up again, how did you feel?	OTHER
+182	4	Does that mean the shortness of breath continued?	OTHER
+183	4	And then the emergency doctors came and examined you?	OTHER
+184	4	And do you have any explanation for yourself where this could have come from?	OTHER
+185	4	Have you ever had something like this before?	MS
+186	4	Do you have other illnesses?	PH
+187	4	Does that mean you're not on the pill or something similar?	OTHER
+188	4	Are you taking any other medications?	AM
+189	4	But only when necessary?	OTHER
+190	4	Do you have any allergies?	AM
+191	4	But not right now, right now?	OTHER
+192	4	Do you take any medications? I mean allergies.	AM
+193	4	What kind of coagulation disorder were you diagnosed with?	PH
+194	4	OK, do you mind?	OTHER
+195	4	And what did the doctor tell you? Did this come out during a check-up before you wanted to get pregnant?	OTHER
+196	4	Ok, but it's not being treated and you're still trying to get pregnant?	OTHER
+197	4	Are you currently pregnant?	PH
+198	4	Do you have a family history of this? Does anyone else have this with you, a coagulation disorder?	SF
+199	4	Did they somehow have a thrombosis or a pulmonary embolism?	PH
+200	4	And their pregnancies were unproblematic?	OTHER
+201	4	Ok and other illnesses in the family?	SF
+202	4	Ok, do you have any other symptoms other than shortness of breath and panic, which is more likely due to the incident itself?	MS
+203	4	Have you had any recent weight loss or heart palpitations, swollen legs, sore legs?	SR
+204	4	So just since today?	OTHER
+205	4	Ok, but somehow swollen legs, pain in the legs, overheated legs, cold legs. Did you notice anything there?	SR
+206	4	Ok, have you been quiet or anything lately?	PH
+207	4	Do you exercise normally and regularly?	SF
+208	4	Ok, but now you have, nothing has changed in your body. Have you noticed anything in your body that has changed?	OTHER
+209	4	Have you had any complaints recently?	MS
+210	4	When can you breathe better? When you prop yourself up like that?	OTHER
+211	4	Ok, so not moving at all. And while standing? Or is standing not possible due to the strain?	MS
+212	4	If you prop yourself up is it better?	OTHER
+213	4	Did you have any kind of asthma?	AM
+214	4	So that's what you have in the evening. When you get up in the morning is it gone?	OTHER
+215	4	And will your legs look good again tomorrow?	OTHER
+216	4	How long have you had this?	MS
+217	4	And when did you go to the family doctor?	OTHER
+218	4	Oh, right today. And did she listen to your heart today?	OTHER
+219	4	What are you working on?	SF
+220	4	And how much activity do you do per day? Do you sit a lot?	OTHER
+221	4	Does that mean you are already moving during the day?	OTHER
+222	4	Do you do sports regulary?	SF
+223	4	How many stairs can you manage? Or floors?	OTHER
+224	4	Do you need to stop and rest?	OTHER
+225	4	They do it anyway. So it's still going well?	OTHER
+226	4	Do you have any previous illnesses? Do you know anything about it?	PH
+227	4	Did you ever have something close to your heart as a child?	PH
+228	4	Did you ever have glandular fever as a teenager?	OTHER
+229	4	Otherwise, have you ever had an operation?	PH
+230	4	When was the operation?	PH
+231	4	And are there any known illnesses in the family? With parents or siblings?	SF
+232	4	Ok, so she has diabetes?	OTHER
+233	4	Do you know why?	OTHER
+234	4	So you don't know what's originally in your father's heart?	OTHER
+235	4	Died in a what?	OTHER
+236	4	And they were siblings? Yes, you were cousins, but the two girls were sisters?	OTHER
+237	4	Ok, but what don't you know?	OTHER
+238	4	Hmm, yes, difficult topic. Yes understandable.	OTHER
+239	4	Do you have any allergies? Hay fever, medication?	AM
+240	4	Hamyp… you mean?	OTHER
+241	4	I mean, are you allergic to medications?	AM
+242	4	Ok, and the only medication you take is Mamypril? Since when?	AM
+243	4	Why?	OTHER
+244	4	Because of high blood pressure then? This is only known in the short term?	OTHER
+245	4	Do you know what blood pressure values ​​you had there?	PH
+246	4	Ok, and then suddenly your blood pressure was so high that you felt bad with a headache?	OTHER
+247	4	Ok, and you have nothing else. On the kidneys or something?	OTHER
+248	4	And you only have heavy urination at night?	OTHER
+249	4	But is it normal during the day?	OTHER
+250	4	But no burning when urinating or seen blood?	SR
+251	4	Do you drink alcohol regularly?	SF
+252	4	What does regular mean to you?	OTHER
+253	4	And otherwise, high percentage?	OTHER
+254	4	Do you smoke?	SF
+255	4	How long have you been smoking?	OTHER
+256	4	And started?	OTHER
+257	4	Since yesterday afternoon?	OTHER
+258	4	Hmm, but the shortness of breath only came while you were sleeping, when you lay down?	OTHER
+259	4	Have you ever laid down during the day when you feel so bad?	OTHER
+260	4	And how did it start? They went jogging but everything was ok and after that...	OTHER
+261	4	And then all of a sudden?	MS
+262	4	And lately, have you had any infection or anything recently?	PH
+263	4	Anyone in your area?	OTHER
+264	4	Nobody at work either?	OTHER
+265	4	Also sputum?	OTHER
+266	4	And do you have a fever too?	SR
+267	4	And what did you take?	OTHER
+268	4	Are you taking any other medications?	AM
+269	4	So if necessary, nothing regular?	OTHER
+270	4	Do you know what you're taking?	OTHER
+271	4	Ok, but your blood pressure was currently good, so are you taking it regularly?	OTHER
+272	4	Have you never had any side effects from the medication?	OTHER
+273	4	Do you have any allergies?	AM
+274	4	No medication, no hay fever?	AM,OTHER
+275	4	Ok, and do you have any other pre-existing conditions? You have high blood pressure...	PH
+276	4	Are you taking anything for anemia?	OTHER
+277	4	Are you still bleeding at the moment? Right now too, okay.	OTHER
+278	4	And no other previous illnesses?	PH
+279	4	Anything known in the family?	SF
+280	4	On the heart, lungs...	OTHER
+281	4	Have you traveled recently?	OTHER
+282	4	And also no contact with any sick people?	OTHER
+283	4	What do you do for a living?	SF
+284	4	Ok, you don't have one either...	OTHER
+285	4	But now you don't have any pressure on your chest or anything like that?	OTHER
+286	4	In the right side?	OTHER
+287	4	No (laughs)	OTHER
+288	4	What is the best storage for it?	OTHER
+289	4	Ok, but you don't have anything else on your back? So this is really breathing?	OTHER
+290	4	Ok, so you didn't misspeak or anything?	OTHER
+291	4	Do you have any other complaints anywhere else? So you now have breathing-dependent symptoms	MS
+292	4	Have you ever had this type of headache?	OTHER
+293	4	Ok, that's all, but it's something you don't know about yourself	OTHER
+294	4	And otherwise, any burning or blood when urinating?	SR
+295	4	Ok, so no infection like that?!	OTHER
+296	4	And is there anything that makes you breathe better? Have you tried anything there?	OTHER
+297	4	And are you not aware of any coagulation disorders?	PH
+298	4	Have you noticed heart palpitations or extreme palpitations?	SR
+299	4	But you didn't faint?	MS
+300	4	And haven't you even had one yet?	OTHER
+301	4	How did high blood pressure become known?	OTHER
+302	4	So even during a check-up, you had no complaints.	OTHER
+303	4	And haven't you been exposed to any stress recently?	SF
+304	4	Has your weight been consistent?	SR
+305	4	And haven't you had a fever recently?	SR
+306	4	Do you also have difficulty swallowing?	OTHER
+579	9	Start by reading the preliminary information	OTHER
+580	9	"""Good morning Ms. Klein, I am responsible for you in the emergency room today. What can I do for you?"""	OTHER
+581	9	What happened in a few hours? Excuse me	OTHER
+582	9	Ok, and now you're lying there because something hurts you?	MS
+583	9	It hurts to breathe.	OTHER
+584	9	Can you tell where exactly it hurts or how it hurts?	OTHER
+585	9	If you push in, it's a little better.	OTHER
+586	9	Where do you have to press in there?	OTHER
+587	9	And you said, did you too?	OTHER
+588	9	Not sweating? Yes, okay.	OTHER
+589	9	And um, when you breathe in deeper, do you hear any sounds? Do you hear anything there?	OTHER
+590	9	Does it squeak or whistle?	OTHER
+591	9	It hurts, okay.	OTHER
+592	9	Have you injured yourself somehow? Did you somehow fall or get stuck?	OTHER
+593	9	Was it still good while jogging?	OTHER
+594	9	You said after morning shift. What do you do for a living?	SF
+595	9	And um, can you somehow describe the pain? Are they stabbing or rather oppressive? Or can it radiate or is it very selective?	OTHER
+596	9	Is it okay to hold your breath?	OTHER
+597	9	May I ask, this may have nothing acutely to do with your things, but do you perhaps have any previous illnesses that are relevant?	PH
+598	9	Ok, so do you object to that?	PH
+599	9	If you already bring that up. What kind of medication are you taking?	AM
+600	9	But the headache, did it come first or did the chest pain come first?	OTHER
+601	9	But you don't have to, you don't have a cough or mucus coming out now?	OTHER
+602	9	Do you go to the toilet often at night?	OTHER
+603	9	You don't have thick legs if you run longer or something like that, do you?	SR
+604	9	Um, have you been asked recently that you're very pale or have blue lips or something like that?	OTHER
+605	9	I just meant because the periods are very heavy and you lose a lot of blood, you know.	OTHER
+606	9	Do you also have something against that?	OTHER
+607	9	Has this been checked by your family doctor?	OTHER
+608	9	And is that still within the framework or is it...	OTHER
+609	9	Are there any family illnesses in your family... have I asked about family illnesses?	SF
+610	9	With your heart or something?	SF
+611	9	Have you ever had your sugar looked at?	OTHER
+612	9	Is it OK or is it...?	OTHER
+613	9	Ok, um then I would be interested. They also do not have compressed neck veins. You would see that, right?	OTHER
+614	9	Did he do an EKG too?	OTHER
+615	9	Ok lastly, do you have any allergies or asthma or anything?	AM
+616	9	And do you smoke?	SF
+617	9	Ok, and if you're going through menopause now, don't you take any contraceptives or anything like that? Hormonal or something?	OTHER
+618	9	Have you had any injuries or surgery recently?	PH
+619	9	Did you take a long-haul flight?	SF
+620	9	So you didn't take a trip abroad or anything like that?	SF
+621	9	Well then the last thing I would like to know is, you said the pain gets better when you put pressure on it?	OTHER
+622	9	But the pressure on the side where the pain is?	OTHER
+623	9	So not on the other side?	OTHER
+624	9	It hurts and hurts on the right. Then you press on the right and it gets better?	OTHER
+625	9	And now about the body position. Does it get worse when you lie down? So when you're completely down?	MS
+626	9	Because they said it gets better with support. Is it because of the support or is it because the head is higher?	MS
+627	9	Any other things that make it better or worse?	MS
+628	9	Then, um, last question, if you're so stressed now. Can you climb stairs normally?	OTHER
+629	9	Yesterday everything worked and today nothing works anymore	OTHER
+1	1	Ok, Ms. Bircher, then tell me again what exactly was that like? Did it start acutely tonight with the shortness of breath?	OTHER
+2	1	And have you ever had something like that before? So at all in the last few years? Do you know that?	MS
+3	1	And have you had an infection recently?	PH
+4	1	Ok, no cold or anything like that, no cough, no runny nose either?	PH
+5	1	And do you also have pain?	MS
+6	1	Is it like someone is sitting on it?	OTHER
+7	1	Do you also have a cough, Ms. Bircher?	OTHER
+8	1	No coughing	OTHER
+9	1	And this feeling of pressure has been there all the time, since tonight?	OTHER
+10	1	So also in peace? Because you're not under any stress now, right?	SR
+11	1	Are there any factors that can make things better?	OTHER
+12	1	Has it been like this at night in the last few years or recently that you sleep upright?	OTHER
+13	1	Have you had to go to the toilet more often at night?	OTHER
+14	1	What is your background, Ms. Bircher? Do you have a known illness or medication? Do you have this in your heart? Do you know anything about it?	AM,PH
+15	1	It's outside	OTHER
+16	1	You take tablets for that. And is your blood pressure well controlled?	OTHER
+17	1	And arrhythmias?	OTHER
+18	1	Neither?	OTHER
+19	1	Is that also a real heart palpitations?	SR
+20	1	And dizziness too, right?	MS
+21	1	And your family and your parents also know something in this direction with your heart?	SF
+22	1	That sounds good	OTHER
+23	1	Ms Bircher, have you recently taken a long flight or had an operation?	PH,SF
+24	1	Ok, that was quite a while ago	OTHER
+25	1	Have you noticed that your legs have perhaps become thicker?	SR
+26	1	They look good already	OTHER
+27	1	That's correct. So not a feeling of tension or something?	OTHER
+28	1	Do you smoke Mrs. Bircher?	SF
+29	1	That's good	OTHER
+30	1	And what about alcohol?	SF
+31	1	And what about pain medications? You don't need it, do you? That you there...?	AM
+32	1	Yes, that's right	OTHER
+33	1	How are your bowel movements? Did you notice anything there? Or does everything work well?	SR
+34	1	And about urinating, Ms. Bircher?	SF
+35	1	How much do you normally drink a day?	SF
+36	1	How much approximately? Can you give me ?	OTHER
+37	1	Well okay. And is there a burning sensation when urinating?	SR
+38	1	Was it dark or light?	SR
+39	1	OK. Are you aware of any allergies?	AM
+40	1	And your family doesn't know anything about malignant diseases like cancer or something like that?	SF
+41	1	That's what you said, that's true	OTHER
+42	1	What if? Now I have to go back to the feeling of pressure and the shortness of breath. Right now, when you're lying here, do you still have that feeling?	OTHER
+43	1	But you don't know about asthma, do you?	AM
+44	1	Have you had increased stress in the last few days?	SF
+45	1	You're used to that, right?	OTHER
+46	1	Great, so you've always been very sporty and do a lot of physical work and stuff like that?	SF
+47	1	Ok Mr. Wagner, since when did you start to feel worse with dizziness and shortness of breath?	OTHER
+48	1	Even more extreme? So it has actually increased?	OTHER
+49	1	Pressure pain in the stomach, ok. Now back to the shortness of breath. Do you also have chest pain? So a feeling of pressure, for example?	MS
+50	1	Ok, I totally understand. I can understand	OTHER
+51	1	And if you have these complaints now, do they also occur when you are lying here at rest? How are you doing now?	MS
+52	1	Better?	OTHER
+53	1	But still there?	OTHER
+54	1	You said you also have a feeling of pressure in your stomach area. Do you have pain there too? So I mean, for example, cramps that maybe occur after eating or something like that?	MS
+55	1	Stomach pain?	OTHER
+56	1	And since when has this feeling of pressure been there? Did this all happen at the same time or was it earlier?	OTHER
+57	1	Yes, did it all come together?	OTHER
+58	1	Have you noticed anything about your bowel movements? Has anything changed there? That you may have noticed blood in your stool? That the color was changed?	SR
+59	1	reddish, so it could also be blood?	OTHER
+60	1	And do you have any known previous illnesses, Mr. Wagner? Are you taking any medication?	AM,PH
+61	1	Have you had surgery recently?	PH
+62	1	With the polyphs and everything?	OTHER
+63	1	Not at all recently?	OTHER
+64	1	Have you? You said that the urine is so reddish. Do you have..	SR
+65	1	Sometimes exactly. Do you also have colic? So cramping discomfort in the abdomen is more likely?	OTHER
+66	1	And burning when urinating?	SR
+67	1	Neither? And that you somehow have to urinate more or something like that?	OTHER
+68	1	That's quite noticeable, you would say, right?	OTHER
+69	1	Have you ever been to a urologist by chance recently?	OTHER
+70	1	Yes I understand	OTHER
+71	1	What is it like in your family? Is there anything known about that? For example, intestinal diseases or with the prostate or bladder?	SF
+72	1	Okay, so you don't know anything about malignant diseases?	OTHER
+73	1	You've now been to your family doctor. Do you go to these check-ups regularly? That's why I'm asking now, with you...	PH
+74	1	Ok, but also because you were doing well, I assume, or at that time?	PH
+75	1	Perhaps Mr. Wagner has been there for you lately, or if I ask now, have you had a lot of infections? Runny nose, colds?	PH
+76	1	And do you currently have a fever?	SR
+77	1	Yes, Mr. Lehner, you said that you have this shortness of breath that is bothering you the most at the moment. Did it happen all of a sudden from now on or rather gradually?	OTHER
+78	1	Ok, do you also have pain, i.e. a feeling of pressure on your chest?	MS
+79	1	But not like someone is sitting on your chest or something like that? No?	OTHER
+80	1	Are you also really scared? So if you can perhaps say, well, were you nervous about something or were you afraid that this would happen? Or did this shortness of breath really come about without a justifiable cause?	MS
+81	1	OK, the dizziness?	OTHER
+82	1	Exactly, no stress, exactly. That's what I was getting at. And were you also unconscious?	MS
+83	1	Have you ever had something like this in the past, i.e. at all? Can you remember a similar event happening to you?	MS
+84	1	Have you had this dizziness before? Was that also the case with the shortness of breath? Or was that partly just a hoax?	MS
+85	1	So that's how it happened in a similar way?	OTHER
+86	1	Have you ever been to a neurologist? Have you had this investigated in any way?	PH
+87	1	Well, that means if you have these dizzy spells, if I ask you a little more specifically, are they more likely to happen when you're around people? So if you're at home in peace and quiet, reading, watching TV or something like that, then you don't have that?	OTHER
+88	1	And what is it like now? Has it gotten a little better?	MS
+89	1	Do you have any other previous illnesses, Mr Lehner?	PH
+90	1	Medications that you take regularly?	AM
+91	1	Do you smoke?	SF
+92	1	What about alcohol or drugs?	SF
+93	1	Do you know of any allergies or anything like that?	AM
+94	1	How is it with your family? Are there any known illnesses?	SF
+95	1	Have you recently... What do you do for a living?	SF
+96	1	Have you had a lot of stress lately? You say it's all too much for you? Do you somehow feel that you are no longer able to cope with the situation?	SF
+97	1	Can you balance this well in your free time?	OTHER
+98	1	Do you have children too?	SF
+99	1	Nice	OTHER
+100	1	Okay, so do you otherwise, now I'll ask you again in general about bowel movements or urine, have you had any problems with that? That you also have more diarrhea?	SR
+101	1	Stomach pain?	OTHER
+102	1	And um, urinating is everything completely normal? Now isn't it somehow that you have to go out more at night or something?	OTHER
+103	1	Sleep disorders?	OTHER
+104	1	And how long have you been having these nightmares?	OTHER
+105	1	Did you have any trauma that may have preceded it? Any memorable experience recently?	OTHER
+106	1	Do you also have siblings?	SF
+107	1	Can you explain yourself somehow like the nightmares now? Can you think of any reason for this? Did something happen at the time this started?	OTHER
+108	2	Start by reading the preliminary information	OTHER
+109	2	"""Good morning Mr. Wagner, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+110	2	Cut through security question in the suspected diagnosis	OTHER
+111	2	Ok Mr. Wagner, since when did you start to feel worse with dizziness and shortness of breath?	OTHER
+112	2	Even more extreme? So it has actually increased?	OTHER
+113	2	Pressure pain in the stomach, ok. Now back to the shortness of breath. Do you also have chest pain? So a feeling of pressure, for example?	MS
+114	2	Ok, I totally understand. I can understand	OTHER
+115	2	And if you have these complaints now, do they also occur when you are lying here at rest? How are you doing now?	MS
+116	2	Better?	MS
+117	2	But still there?	MS
+118	2	You said you also have a feeling of pressure in your stomach area. Do you have pain there too? So I mean, for example, cramps that maybe occur after eating or something like that?	MS
+119	2	Stomach pain?	MS
+120	2	And since when has this feeling of pressure been there? Did this all happen at the same time or was it earlier?	OTHER
+121	2	Yes, did it all come together?	OTHER
+122	2	Have you noticed anything about your bowel movements? Has anything changed there? That you may have noticed blood in your stool? That the color was changed?	SR
+123	2	reddish, so it could also be blood?	SR
+124	2	And do you have any known previous illnesses, Mr. Wagner? Are you taking any medication?	AM,PH
+125	2	Have you had surgery recently?	PH
+126	2	With the polyphs and everything?	PH
+127	2	Not at all recently?	PH
+128	2	Have you? You said that the urine is so reddish. Do you have..	SR
+129	2	Sometimes exactly. Do you also have colic? So cramping discomfort in the abdomen is more likely?	OTHER
+130	2	And burning when urinating?	SR
+131	2	Neither? And that you somehow have to urinate more or something like that?	SR
+132	2	That's quite noticeable, you would say, right?	SR
+133	2	Have you ever been to a urologist by chance recently?	OTHER
+134	2	Yes I understand	OTHER
+135	2	What is it like in your family? Is there anything known about that? For example, intestinal diseases or with the prostate or bladder?	SF
+136	2	Okay, so you don't know anything about malignant diseases?	SF
+137	2	You've now been to your family doctor. Do you go to these check-ups regularly? That's why I'm asking now, with you...	PH
+138	2	Ok, but also because you were doing well, I assume, or at that time?	PH
+139	2	Perhaps Mr. Wagner has been there for you lately, or if I ask now, have you had a lot of infections? Runny nose, colds?	PH
+140	2	And do you currently have a fever?	SR
+528	8	Start by reading the preliminary information	OTHER
+529	8	"""Good morning Mr. Albrecht, I am responsible for you in the emergency room today. What can I do for you?"""	OTHER
+530	8	What does that mean when it comes to exertion? Can you give me an example of when you experience shortness of breath? With everyday things, or is it when you do sports?	OTHER
+531	8	And now things are getting worse?	OTHER
+532	8	Can you manage the two floors at once or do you have to stop there?	OTHER
+533	8	So it can also happen that you have to stop?	OTHER
+534	8	Do you also have to go to the toilet at night?	OTHER
+535	8	How often approximately?	OTHER
+536	8	3 times? OK	OTHER
+537	8	And, um, could I take a quick look at your neck veins?	OTHER
+538	8	Are they jammed? Do you happen to know that?	OTHER
+539	8	Are not sautéed? OK.	OTHER
+540	8	Then, um, is there anything else that's important to you that you want to say? Otherwise, I would simply ask you a few more questions so that we can clarify a bit what might be going on.	OTHER
+541	8	For example, I have another question about the pain. Are they permanent or only under stress?	MS
+542	8	Can you tell where the pain is exactly?	OTHER
+543	8	Are they just in the middle here or do they sometimes radiate too?	OTHER
+544	8	In the chest area	OTHER
+545	8	N pressure. OK	OTHER
+546	8	And um, if you have problems breathing, it's more likely that you just have pressure or do you also hear a rattling sound when you exhale faster, for example. That it's like...like having a bad cold?	OTHER
+547	8	No?	OTHER
+548	8	Ok… ok	OTHER
+549	8	And you have edema on both sides of your legs?	OTHER
+550	8	Can I take a quick look at the legs?	OTHER
+551	8	Ok, you have edema on both sides. That would be important to know.	OTHER
+552	8	Is it sometimes the case that when you are stressed, has anyone ever told you that you have blue lips or blue nails?	OTHER
+553	8	No? Has no one said yet?	OTHER
+554	8	Um, exactly… then I would just be interested to know if you, um, smoke, for example?	SF
+555	8	Hmm, ok and how many times a day did you smoke?	SF
+556	8	A box. And how many years have you been smoking like that, a pack?	SF
+557	8	OK	OTHER
+558	8	Do you drink alcohol?	SF
+559	8	Yes. How much are you drinking there? During the day? So thumbs up	SF
+560	8	Ok, then I would be interested to know whether there are heart problems in your family. Especially at younger ages, under 60	SF
+561	8	OK. How old is your father?	OTHER
+562	8	66. Okay	OTHER
+563	8	And have you checked to see whether diabetes could also be an issue? I didn't see that in the blood values.	OTHER
+564	8	No, or don't you know?	OTHER
+565	8	Ok, what was that? That's interesting.	OTHER
+566	8	And do you know why they died suddenly?	OTHER
+567	8	Ok, but you don't know exactly what?	OTHER
+568	8	Yes I think so. Of course, that's a stupid, um, very unpleasant situation when two people are doing so badly.	OTHER
+569	8	The last thing I would be interested in is. Do you have allergies, do you know that?	AM
+570	8	Grass or something?	AM
+571	8	Um... other than that... have you had any kind of surgery recently?	PH
+572	8	At the knees?	PH
+573	8	How long ago was that?	PH
+574	8	Two years.	OTHER
+575	8	Ok, last thing. Have you recently taken a long flight or sat on a train or plane for a long time?	PH
+576	8	The last question, what exactly do you work on?	SF
+577	8	Ok, do you sit there a lot?	SF
+578	8	They stand all the time.	OTHER
+2253	37	So you are in pain or how did I understand that correctly. Here on the page where you reach?	MS
+2254	37	Do you still have pain anywhere else?	MS
+2255	37	While taking a breath?	OTHER
+2256	37	What if you don't take a breath now? Do you also have pain?	OTHER
+2257	37	Ok, of course that won't last long	OTHER
+2258	37	Ok, and yesterday morning you went jogging and everything was fine?	OTHER
+2259	37	Did it come all of a sudden or something…?	MS
+2260	37	And do you still have a sore throat or headache, right?	OTHER
+2261	37	What did you take then?	OTHER
+2262	37	And do you also have a cough?	MS
+2263	37	And fever?	SR
+2264	37	And do you have asthma?	AM
+2265	37	Ok, do you smoke?	SF
+2266	37	And apart from the headache medication you haven't taken anything yet?	AM
+2267	37	Have you ever had something similar?	MS
+2268	37	Do you often have such infections or respiratory tract infections?	PH
+2269	37	Have you ever had problems with your lungs or your heart or anything like that?	PH
+2270	37	Do you have any other previous illnesses?	PH
+2271	37	And you don't have diabetes or anything?	OTHER
+2272	37	And fever... Has anyone around you had something similar where you could have been infected?	OTHER,SR
+2273	37	Not at all?	OTHER
+2274	37	Ok and have you been, maybe you've been lying a lot lately?	PH
+2275	37	Have you taken a flight, a long one?	SF
+2276	37	Have you been abroad?	OTHER
+2277	37	Does anyone in your family have lung problems?	SF
+2278	37	And you don’t have any allergies either?	AM
+2279	37	And now it still hurts you?	MS
+2280	37	Ok, and have you noticed that you have a bit of a stiffness in your neck?	OTHER
+2281	37	And did you notice that your heart was racing or something?	SR
+2282	37	And has anything else been different lately? Have you done any kind of treatment or anything where you say you could have had your immune system weakened in some way or something like that?	PH
+2283	37	Has something like this ever happened to you?	PH
+2284	37	So this is the first time you've had something like this?	MS
+2285	37	And now you have that in peace, I notice. That you can't breathe?	MS
+2286	37	Ok, and do you feel like it got so bad from one second to the next? Or what?	MS
+2287	37	And did you feel any pain there?	MS
+2288	37	Do you have asthma or similar pre-existing conditions?	AM,PH
+2289	37	You know exactly which one, right?	OTHER
+2290	37	And you've been doing well lately until this incident?	MS
+2291	37	And you're always doing sports and you've never had anything while doing it?	SF
+2292	37	Do you take any medications?	AM
+2293	37	Have you had any treatments because you wanted to have children?	OTHER
+2294	37	And you haven't been treated yet? Or have you already received medication?	OTHER
+2295	37	And do you have a headache otherwise, right?	OTHER
+2296	37	And fever or something? Have you had that?	SR
+2297	37	And where exactly is the pain when...?	OTHER
+2298	37	Ok and have you had any kind of long flight or a lately?	SF
+2299	37	So you were always on the move?	SF
+2300	37	And do you have a clotting disorder that causes the blood to clot too much or too little?	OTHER
+2301	37	Do you get bruises easily or something?	OTHER
+2302	37	No? And if you get injured, does it bleed a lot or not so much?	OTHER
+2303	37	And have you ever had a leg vein thrombosis or something?	PH
+2304	37	So you probably have the, don't you take the pill if you want to have children?	OTHER
+2305	37	Have you taken them before?	OTHER
+2306	37	So you've had several miscarriages? Do you know why or has this been clarified?	OTHER
+2307	37	Do you know at what week of pregnancy this happened?	OTHER
+2308	37	That's when you came up with the coagulation disorder?	OTHER
+2309	37	Ok, but you didn't say anything about increased bleeding or anything like that?	OTHER
+2310	37	Is there anyone else in your family who has a similar clotting disorder?	SF
+2311	37	Have you ever heard of the term factor 5 Leiden syndrome?	OTHER
+2312	37	And do you know if they got any medication for it?	OTHER
+2313	37	Have you ever had a pulmonary embolism or leg vein thrombosis?	PH
+2314	37	Allergies. Do you have any allergies?	AM
+2315	37	And you said you don't have asthma	AM,OTHER
+2316	37	And do you have any other heart diseases or anything like that in your family?	SF
+2317	37	Do you have to get up at night and go to the toilet, right?	OTHER
+2318	37	Ok, and you say it's been like this for several months?	MS
+2319	37	And before that everything was normal?	OTHER
+2320	37	You didn't have any known heart disease or anything before that?	PH
+2321	37	Did you do a lot of sport before?	SF
+2322	37	And did you have an infection or something? Or were you ever sick?	PH
+2323	37	Have you never been sick in your entire life?	OTHER
+2324	37	Ok, and then...did you ever have a streptococcal infection? Or some kind of tonsillitis or something?	PH
+2325	37	No? Then you never did any exercise even though you had an infection? In recent years like this?	OTHER
+2326	37	Then you were always good in bed at home?	OTHER
+2327	37	And now you have a feeling of pressure and stuff... And do you also have this at rest, or only when you move?	MS
+2328	37	OK and then. So you only notice it when you move or how exactly?	OTHER
+2329	37	If you go up a flight of stairs, how many stairs would you have to climb before you notice?	OTHER
+2330	37	So after the third floor?	OTHER
+2331	37	And do you have any other previous illnesses?	PH
+2332	37	No asthma?	AM
+2333	37	Do you smoke?	SF
+2334	37	How much approximately?	OTHER
+2335	37	What's so long-term?	OTHER
+2336	37	About a packal a day?	OTHER
+2337	37	For how many years?	OTHER
+2338	37	Began?	OTHER
+2339	37	Ok, so about five years now?	OTHER
+2340	37	And otherwise you have no pain and nothing is different except that your legs are a little swollen and you have a feeling of pressure on your heart as soon as you move a lot and after the third floor you get something like this...	MS,OTHER
+2341	37	Do you really have to breathe, right?	OTHER
+2342	37	And then are you afraid of it, right?	MS
+2343	37	Ok, and do you sometimes not leave the house because you're afraid that this will happen when you come back?	MS
+2344	37	No?	OTHER
+2345	37	And do you ever have a headache or something?	OTHER
+2346	37	More than before?	OTHER
+2347	37	Exactly and I have now read that you have been taking this new medication for some time?	AM
+2348	37	Exactly! And how long have you been taking it? And do you know why your family doctor wrote this down for you?	OTHER
+2349	37	And is there anyone in the family who also has high blood pressure?	SF
+2350	37	Mom, Dad, everyone healthy?	OTHER
+2351	37	And why?	OTHER
+2352	37	Ok, and do you have any siblings?	SF
+2353	37	And did the family doctor tell you why he wrote down the ramipril?	OTHER
+2354	37	So because of the increased blood pressure. Did he also say why it might be elevated?	OTHER
+2355	37	And was the elevated blood pressure only discovered a few months ago? Or was it already increased before?	OTHER
+2356	37	Since when has he been crazy like that?	OTHER
+2357	37	Did you notice anything else? For example, that the veins are coming out a bit or something like that?	PH
+2358	37	No? Haven't you noticed anything that's different from before?	OTHER
+2359	37	Do you have any allergies?	AM
+2360	37	Have you ever had any surgery?	PH
+2361	37	At both?	OTHER
+2193	35	Start by reading the preliminary information	OTHER
+2194	35	"""Good morning Ms. Klein, I am responsible for you in the emergency room today. What brings you to me?"""	OTHER
+2195	35	Cut through security question in the suspected diagnosis	OTHER
+2196	35	Do you have pain?	MS
+2197	35	When inhaling or exhaling?	MS
+2198	35	Was this sudden? Or has it been a long time since you had some kind of shortness of breath?	MS
+2199	35	Have you had an infection recently?	PH
+2200	35	Or fever?	SR
+2201	35	Do you have a fever now?	SR
+2202	35	Have you had any surgery in the last few weeks or have you been bedridden for a long time?	PH
+2203	35	Do you have any previous illnesses?	PH
+2204	35	What kind of medication do you take?	AM
+2205	35	But you actually only take medication for your blood pressure? Otherwise you don't actually have any?	AM
+2206	35	Have you had any operations?	PH
+2207	35	Do you have a known clotting disorder?	PH
+2208	35	Or in the family?	SF
+2209	35	Have you had any other problems with your thyroid? An over- or under-function?	PH
+2210	35	There were no problems with the heart or lungs either?	PH
+2211	35	For example, you didn't have a thrombosis or anything like that?	PH
+2212	35	Do you have allergies?	AM
+2213	35	Are there certain hereditary diseases in the family?	SF
+2214	35	Or did someone young die?	SF
+2215	35	Known about diabetes?	PH
+2216	35	Has your body weight been consistent recently?	SR
+2217	35	Sweating at night. Did you just have it that night or have you had it before?	SR
+2218	35	Do you now have to go to the toilet more often at night?	OTHER
+2219	35	Is it better for you if you... So does the pain get better when you lie down?	MS
+2220	35	Has anyone else in the family had a heart attack, for example?	SF
+2221	35	Have you had a long flight recently?	SF
+2222	35	Do you no longer feel as fit as before? Such performance. So your performance has decreased?	SR

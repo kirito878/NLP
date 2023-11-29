@@ -1,0 +1,628 @@
+id	source	utterance
+1384	20	Start by reading the preliminary information
+1385	20	"""Good morning Mr. Lehner, I'm responsible for you in the emergency room today. What brings you here?"""
+1386	20	Cut through security question in the suspected diagnosis
+1387	20	"""You say it started acutely this morning, or before?"""
+1388	20	“Have you ever had something like that, Mr. Lehner?”
+1389	20	"""And when it started, it started with dizziness and discomfort and then shortness of breath? Or how would you describe that?"""
+1390	20	"""Was there a trigger for this? Did you do anything strenuous, like running?"""
+1391	20	"""Were there any other symptoms during this, apart from the dizziness and shortness of breath? Did you feel sick or in pain?"""
+1392	20	"""Eat anything special before?"""
+1393	20	"""No allergies? Do you have any other previous illnesses?"""
+1394	20	“Medications you take?”
+1395	20	"""Do you smoke?"""
+1396	20	"""How much alcohol do you drink?"""
+1397	20	"""What do you do for a living?"""
+1398	20	"""Are you married?"
+1399	20	“And live with your wife?”
+1400	20	"""About the shortness of breath again. Have you noticed a loss in weight recently? Or increased fever or sweating?"""
+1401	20	"""How often does that happen? That you have nightmares like that?"""
+1402	20	"""Those situations where you get so dizzy, where you've had that before, as you say. Is that in certain situations? When you're out and about or at home?"""
+1403	20	"""So in public?"""
+1404	20	"""Have you noticed that you're already starting to avoid going out in public?"""
+1405	20	“And has this dizziness already been clarified by your family doctor or something?”
+1406	20	"""Didn't anything come out?"""
+1407	20	"""So you went to the cardiologist. And because of the dizziness you also went to the neurologist, ENT or something like that?"""
+1408	20	“Have you ever used other drugs?”
+1409	20	“Don’t smoke cannabis either?”
+1410	20	“There are illnesses in the family?”
+1182	17	Start by reading the preliminary information
+1183	17	"""Good morning Mr. Lehner, I am responsible for you in the emergency room today. What brings you to me?"""
+1184	17	Cut through security question in the suspected diagnosis
+1185	17	So Mr. Lehner, now take it easy. Did this happen all of a sudden?
+1186	17	Can you tell me what you did before?
+1187	17	For example, did you suddenly get up or was it while standing or can you tell me how you were moving when you got dizzy and short of breath?
+1188	17	And I heard that at a festival, right?
+1189	17	For example, when there was a lot going on, you felt a bit pressured, right?
+1190	17	And then all of a sudden you started to feel short of breath and dizzy?
+1191	17	And you didn't faint at all?
+1192	17	No. Did you sit down then?
+1193	17	And then it got better?
+1194	17	Was there anyone there then?
+1195	17	No? Did you wait for your friends who came later?
+1196	17	Have you ever had something like this happen before?
+1197	17	And you said you were at school before, was there anything special?
+1198	17	Did you also have heart palpitations in that situation?
+1199	17	Not that one?
+1200	17	But your heart wasn't beating so hard in your chest that you noticed it?
+1201	17	Was everything OK?
+1202	17	And are you also being treated by your family doctor? Or do you go every now and then?
+1203	17	When the symptoms came, were you afraid that something bad could happen?
+1204	17	Do you have any previous illnesses?
+1205	17	Don't you know?
+1206	17	You don't take any medication either?
+1207	17	OK, nothing at all. What about smoking?
+1208	17	Never smoked?
+1209	17	In order. And with the alcohol? Do you drink now and then? Or did you have something to drink there?
+1210	17	Are you taking any other drugs?
+1211	17	They don't make that impression on me either
+1212	17	Are there any previous illnesses in the family? Are both parents quick-lived?
+1213	17	You didn't have any pressure on your chest, you said, right?
+1214	17	Professionally; Are you a teacher? Did I understand that correctly?
+1215	17	Yes, and is there a lot to do at the moment? Do you have to work a lot outside of your studies, right?
+1216	17	You haven't had an infection recently, right?
+1217	17	Any other symptoms in addition to what you described to me?
+1218	17	Have you already taken it?
+1219	17	And the headaches are on one side, on both sides?
+1220	17	That it's so pressing?
+1221	17	Does it then make the dizziness worse?
+1222	17	And what is it like now? Has it gotten a little better now that you're lying here in peace?
+1223	17	That's the kind of tingling you said, right?
+1224	17	Have you ever had that feeling of tingling when you were so short of breath?
+1225	17	What will they do then?
+1226	17	And then at some point will the shortness of breath stop again?
+1227	17	How long will this last then? A few hours or the whole day?
+1228	17	But it was never so bad that you went to the hospital?
+1229	17	Have you noticed anything else lately? Weight gained or lost? Had a fever? Night sweats?
+1230	17	And would you otherwise have been resilient when you were on the road, right?
+1231	17	Nothing ever happened there?
+1044	16	Well, Mr. Wagner, you said earlier that this had been going on since the weekend. Did you notice in the weeks before that you weren't that efficient, right?
+1045	16	Age is not a disease, right
+1046	16	Have you had an infection recently? Or are you a bit inclined to do that?
+1047	16	What kind of previous illnesses do you have? Can you tell me something about that?
+1048	16	Do you go to other doctors besides your family doctor? For example, to a cardiologist or a pulmonologist, right?
+1049	16	Ok, it's been a while, right?
+1050	16	Is OK
+1051	16	Have you noticed your weight lately? Has it become less or more? Or stayed the same?
+1052	16	Was that intentional? Was your appetite less or did it just happen that way?
+1053	16	Do you smoke or have you smoked?
+1054	16	Have you had a fever recently?
+1055	16	Not noticed, not measured, right?
+1056	16	Night sweats at night? So that you sweated a lot?
+1057	16	Have you noticed?
+1058	16	Have you had bone pain or any body aches?
+1059	16	Nothing at all?
+1060	16	Did you look at your body to see if there were any changes? Swelling, for example in the neck or groin?
+1061	16	Didn't you notice everything?
+1062	16	What medication are you taking?
+1063	16	Absolutely none? Because you haven't been to the doctor for a long time? Have you ever taken anything before?
+1064	16	Neither? OK.
+1065	16	Urination, bowel movements normal?
+1066	16	Big legs too? Or not that?
+1067	16	Is it also the case that urination is taking longer and becoming more difficult lately?
+1068	16	Without pain though?
+1069	16	What did you previously do for a living?
+1070	16	But you never got an infection at some point? You would know, right?
+1071	16	You didn't have a cough, right?
+1072	16	How about your appetite?
+1073	16	But you didn't make it, did you?
+1074	16	So Mr. Lehner, now take it easy. Did this happen all of a sudden?
+1075	16	Can you tell me what you did before?
+1076	16	For example, did you suddenly get up or was it while standing or can you tell me how you were moving when you got dizzy and short of breath?
+1077	16	And I heard that at a festival, right?
+1078	16	For example, when there was a lot going on, you felt a bit pressured, right?
+1079	16	And then all of a sudden you started to feel short of breath and dizzy?
+1080	16	And you didn't faint at all?
+1081	16	No. Did you sit down then?
+1082	16	And then it got better?
+1083	16	Was there anyone there then?
+1084	16	No? Did you wait for your friends who came later?
+1085	16	Have you ever had something like this happen before?
+1086	16	And you said you were at school before, was there anything special?
+1087	16	Did you also have heart palpitations in that situation?
+1088	16	Not that one?
+1089	16	But your heart wasn't beating so hard in your chest that you noticed it?
+1090	16	Was everything OK?
+1091	16	And are you also being treated by your family doctor? Or do you go every now and then?
+1092	16	When the symptoms came, were you afraid that something bad could happen?
+1093	16	Do you have any previous illnesses?
+1094	16	Don't you know?
+1095	16	You don't take any medication either?
+1096	16	OK, nothing at all. What about smoking?
+1097	16	Never smoked?
+1098	16	In order. And with the alcohol? Do you drink now and then? Or did you have something to drink there?
+1099	16	Are you taking any other drugs?
+1100	16	They don't make that impression on me either
+1101	16	Are there any previous illnesses in the family? Are both parents quick-lived?
+1102	16	You didn't have any pressure on your chest, you said, right?
+1103	16	Professionally; Are you a teacher? Did I understand that correctly?
+1104	16	Yes, and is there a lot to do at the moment? Do you have to work a lot outside of your studies, right?
+1105	16	You haven't had an infection recently, right?
+1106	16	Any other symptoms in addition to what you described to me?
+1107	16	Have you already taken it?
+1108	16	And the headaches are on one side, on both sides?
+1109	16	That it's so pressing?
+1110	16	Does it then make the dizziness worse?
+1111	16	And what is it like now? Has it gotten a little better now that you're lying here in peace?
+1112	16	That's the kind of tingling you said, right?
+1113	16	Have you ever had that feeling of tingling when you were so short of breath?
+1114	16	What will they do then?
+1115	16	And then at some point will the shortness of breath stop again?
+1116	16	How long will this last then? A few hours or the whole day?
+1117	16	But it was never so bad that you went to the hospital?
+1118	16	Have you noticed anything else lately? Weight gained or lost? Had a fever? Night sweats?
+1119	16	And would you otherwise have been resilient when you were on the road, right?
+1120	16	Nothing ever happened there?
+1121	16	Have you ever had something like this before?
+1122	16	Never happened before. Was there anything special in the last few days?
+1123	16	You then had to urinate frequently at night, did I understand that correctly?
+1124	16	But the urine looked normal?
+1125	16	More pink, okay. Did you have to sit a lot the day before, or did you have an infection the days before?
+1126	16	Played cards?
+1127	16	Ate a lot, drank a lot, smoked?
+1128	16	Did you also have a cough, for example?
+1129	16	Not at all?
+1130	16	Dizziness?
+1131	16	Cardiac arrhythmia? That the heart would have beaten faster or stumbled?
+1132	16	And you have this new too?
+1133	16	Are you receiving cardiological care? Do you have something close to your heart?
+1134	16	And does this stumbling last longer, or is it every now and then?
+1135	16	All the time, consistently. Do you have any other illnesses? For example, occlusive disease in the legs or have you ever had a stroke?
+1136	16	You take tablets for that, okay. Pain somewhere?
+1137	16	And is the pressure only on the chest or does it also radiate? In the arm out or in the jaw up?
+1138	16	Nothing is known about the thyroid, right?
+1139	16	Is it out? Since when has it been out?
+1140	16	And you also take tablets?
+1141	16	That means you take something for your thyroid, blood pressure and diabetes? And that was it?
+1142	16	Nothing else?
+1143	16	You said you don't smoke, right?
+1144	16	Very good
+1145	16	Any known allergies?
+1146	16	Ok, but never with shortness of breath?
+1147	16	Have your legs been fat recently or since yesterday?
+1148	16	And do you only have this shortness of breath when you're at rest or when you're walking?
+1149	16	Exactly, but if you went to the toilet tonight, what was it like? Was the shortness of breath worse?
+1150	16	Is there… What did you used to do professionally?
+1151	16	Are you still active there?
+1152	16	And there hasn't been anything lately that has bothered you if you've made an effort?
+1153	16	Do you ever measure your pulse or blood pressure at home?
+1154	16	And was everything always okay?
+1155	16	The pulse was good too?
+1156	16	Bowel movements and urination were everything normal?
+1157	16	But also in the last few days?
+1158	16	But the shortness of breath only came last night?
+1159	16	And haven't you felt less resilient in the last few days?
+1160	16	Dizziness? Headache?
+1161	16	Do you feel dizzy when breathing/inhaling? Or are you dizzy and feel like you need to breathe deeper?
+1162	16	Always when inhaling?
+1163	16	Are you feeling queasy?
+1164	16	Now we have to see what we do, right?
+1165	16	Have you had more stress now, even on the farm?
+1166	16	Ok, and the physical strain hasn't increased either?
+1167	16	Have you never had a pulmonary embolism or a thrombosis in your legs?
+1168	16	Has your family doctor ever done an ultrasound of your heart?
+1169	16	Never said anything? And you've never had to go to a cardiologist before?
+1170	16	Your parents, have they gotten old?
+1171	16	Nothing at all?
+1172	16	And how long have you had diabetes now?
+1173	16	Since three years?
+1174	16	And the high blood pressure?
+1175	16	Ok, but you never had to take any more medication?
+1176	16	Pain did you say you didn't?
+1177	16	And no cough either?
+1178	16	Did you ever look in the mirror at night?
+1179	16	Left the lights off?
+1180	16	Ok, so you weren't particularly pale or that your neck was particularly thick? Don't you know that?
+1181	16	Do you still have to sit/lie upright to sleep?
+1669	27	Start by reading the preliminary information
+1670	27	"""Good morning Ms. Bircher, I am responsible for you in the emergency room today. What brings you to me?"""
+1671	27	Cut through security question in the suspected diagnosis
+1672	27	Since this morning you said you're short of breath?
+1673	27	Was there anything special last night?
+1674	27	And did the shortness of breath get progressively worse or has it actually been bad the whole time?
+1675	27	Was there anything recently that prevented you from moving?
+1676	27	You're 70 years old, right?
+1677	27	And you still work on the farm?
+1678	27	Do you also have pain?
+1679	27	Exactly, okay. And doesn't it radiate anywhere? It's just a bit of pressure?
+1680	27	Can you show me where exactly the pressure is?
+1681	27	Middle?
+1682	27	Have you ever had this?
+1683	27	Is there anything familiar in your heart?
+1684	27	Have you ever been to a doctor to clarify this?
+1685	27	When was the last time you were there?
+1686	27	At the cardiologist or at the family doctor?
+1687	27	The family doctor, and do you know what kind of examinations he did?
+1688	27	Have you ever had an ultrasound of your heart?
+1689	27	Ok, and there was never anything noticeable?
+1690	27	Ok, have you noticed any swelling from your legs?
+1691	27	Looks wonderful
+1692	27	Did you have nausea?
+1693	27	Since last night or since this morning?
+1694	27	Have you had a cold recently?
+1695	27	So you were in great shape until last night?
+1696	27	Is there anything known about the kidney beforehand?
+1697	27	Kidneys are all good too
+1698	27	Does that mean you have no pre-existing conditions at all, apart from the sugar?
+1699	27	What do you take for blood pressure?
+1700	27	Bisoprolol?
+1701	27	And then just bisoprolol? Nothing else?
+1702	27	Do you have any allergies?
+1703	27	Do you often have to go to the toilet at night? Or was this the first time?
+1704	27	Ok, so I would now take a picture of the heart and an x-ray
+1705	27	We wouldn't hold you either. I would just advise, since we are now in the emergency room, that we do a few more tests first. Not what hurts. You also have to take blood, which is a bit uncomfortable.
+1706	27	Exactly that air comes in again. Then we'll look at the blood work, take a picture of the heart and lungs to see what's going on and then I would definitely talk to you again.
+1707	27	Well, Ms. Bircher, I would do the examinations with you now and then talk to you again afterwards. I've noted that you'd like to get out of here again, but we definitely have to take care of the heart and the lungs a bit and see that air can get in there again.
+307	5	Start by reading the preliminary information
+308	5	"""Good morning Mr. Albrecht, I am responsible for you in the emergency room today. What can I do for you?"""
+309	5	So that you notice it correctly?
+310	5	So that's what you have in the evening. When you get up in the morning is it gone?
+311	5	And will your legs look good again tomorrow?
+312	5	How long have you had this?
+313	5	And when did you go to the family doctor?
+314	5	Oh, right today. And did she listen to your heart today?
+315	5	What are you working on?
+316	5	And how much activity do you do per day? Do you sit a lot?
+317	5	Does that mean you are already moving during the day?
+318	5	Do you do sports regulary?
+319	5	How many stairs can you manage? Or floors?
+320	5	Do you need to stop and rest?
+321	5	They do it anyway. So it's still going well?
+322	5	Do you have any previous illnesses? Do you know anything about it?
+323	5	Did you ever have something close to your heart as a child?
+324	5	Did you ever have glandular fever as a teenager?
+325	5	Otherwise, have you ever had an operation?
+326	5	Ok, so a sports injury
+327	5	When was the operation?
+328	5	And are there any known illnesses in the family? With parents or siblings?
+329	5	Ok, so she has diabetes?
+330	5	Do you know why?
+331	5	So you don't know what's originally in your father's heart?
+332	5	Died in a what?
+333	5	Ah, swimming.
+334	5	And they were siblings? Yes, you were cousins, but the two girls were sisters?
+335	5	Ok, but what don't you know?
+336	5	Hmm, yes, difficult topic. Yes understandable.
+337	5	Do you have any allergies? Hay fever, medication?
+338	5	Hamyp… you mean?
+339	5	I mean, are you allergic to medications?
+340	5	Ok, and the only medication you take is Mamypril? Since when?
+341	5	Why?
+342	5	Because of high blood pressure then? This is only known in the short term?
+343	5	Do you know what blood pressure values ​​you had there?
+344	5	Ok, and then suddenly your blood pressure was so high that you felt bad with a headache?
+345	5	Ok, and you have nothing else. On the kidneys or something?
+346	5	And you only have heavy urination at night?
+347	5	But is it normal during the day?
+348	5	But no burning when urinating or seen blood?
+349	5	Ok and do you have any other complaints? We now have this fatigue, swollen legs, nocturnal urination, occasional high blood pressure
+350	5	Do you drink alcohol regularly?
+351	5	What does regular mean to you?
+352	5	And otherwise, high percentage?
+353	5	Do you smoke?
+354	5	How long have you been smoking?
+355	5	And started?
+783	13	Well, Mr. Lehner, you reported that you are currently having problems with shortness of breath. Do you also have pain? Anywhere at the moment?
+784	13	Tingling in your hands and legs did you say?
+785	13	But that's not necessarily painful, is it?
+786	13	Maybe it's like when your foot falls asleep?
+787	13	And you've been feeling this way since you got so dizzy?
+788	13	Can you add to the shortness of breath. So the shortness of breath started all of a sudden?
+789	13	And has that remained constant all this time?
+790	13	Is there anything close to that? What were you doing before this started?
+791	13	So you can't explain what might have caused this?
+792	13	Have you eaten or consumed anything?
+793	13	OK. So there are no known allergies to any foods or medications?
+794	13	Back to the dizziness. Was it some sort of rotary vertigo or oscillating vertigo?
+795	13	And then you sat down?
+796	13	Ok, and that's how black your eyes have become too?
+797	13	Ok, did you feel sick too?
+798	13	And are you still dizzy now?
+799	13	Do you have any previous illnesses?
+800	13	Have you ever had an operation or been in the hospital?
+801	13	Are you taking any medications?
+802	13	Nothing at all?
+803	13	So you didn't take anything today?
+804	13	What is your job if I may ask?
+805	13	Ok and you said you worked today?
+806	13	And your family situation?
+807	13	Congratulations
+808	13	How do you feel about your life situation now? Are there any factors that stress or burden you?
+809	13	So not more than usual at the moment?
+810	13	Have you ever had any problems with your heart?
+811	13	Or with thrombosis or something?
+812	13	Not even vascular diseases?
+813	13	Is everything neurologically OK?
+814	13	So far OK. So you don't have any other complaints?
+815	13	Excellent!
+816	13	Yes, that's right
+817	13	OK. Why were you there?
+818	13	So have you ever had the dizziness?
+819	13	Rarely? But did the cardiologist come up with anything?
+820	13	Approximately how long ago was that?
+821	13	Was an EKG also written?
+822	13	Are you a smoker or have you ever smoked?
+823	13	But not at the moment?
+824	13	OK Good!
+825	13	Have you had any fever or any infections recently?
+826	13	Neither? Or something like exhaustion?
+827	13	Do you have any questions at the moment?
+828	13	How are you feeling at the moment?
+829	13	And is this a rotary vertigo or a swivel vertigo? How would you describe that?
+830	13	Ok, then that’s where it all comes together?
+831	13	Yes / Yes. I understand. And what about the dizziness and you've only had it since the weekend? Or was that already before?
+832	13	How old are you now if I may ask?
+833	13	Ok, that was a long time ago then?
+834	13	Do you have any previous illnesses? Or have you ever been to the hospital? Have you had any surgeries?
+835	13	But is there anything familiar in your heart?
+836	13	Nothing at all?
+837	13	So as far as you know?
+838	13	Are you taking any medications?
+839	13	Are you not taking any medication at all?
+840	13	So it's not irregular either? Didn't take anything today?
+841	13	Do you have any allergies? Is there anything known? Against medication?
+842	13	Now if you imagine again you are climbing the stairs. How far would you go...how many more floors would you be able to get there? One floor, or…?
+843	13	One floor. Half a floor? And then you get shortness of breath?
+844	13	And you also said you had palpitations over the weekend? Do you still have that now? Or do you feel somehow restless inside?
+845	13	Or did you also feel that it was somehow irregular or that it was something like a heart stumbling?
+846	13	In the stomach? OK. How long have you had this?
+847	13	A pressure pain? Also similar to heartburn or different?
+848	13	Different? Was it that radiant or more so at one point?
+849	13	And then that went away? Or do you think it has become stronger with exercise?
+850	13	Did it get better with exercise?
+851	13	Everything together? Just completely different than what you're used to?
+852	13	Was an EKG done by your family doctor?
+853	13	Not? What else did I want to ask you... Have you noticed that you have kind of thick legs? That you store more water there?
+854	13	Neither?
+855	13	Or that you have to go to the toilet more often at night?
+856	13	This can have various causes
+857	13	How often would you roughly estimate? How many times do you have to go out?
+858	13	And you've only had shortness of breath since the weekend? So it wasn't like that before?
+859	13	And the shortness of breath does it somehow depend on what position you are in? Whether you are upright or lying down?
+860	13	Is it always the same?
+861	13	Is it stronger?
+862	13	So it's not like if you straighten up it will get better?
+863	13	It is not like this?
+864	13	Ok, then I understand you correctly. Are you a smoker or have you ever smoked?
+865	13	Good, but not like that now?
+866	13	OK very good. Do you know if you have high blood pressure in any way? Do you have high blood pressure? Do you know anything about this?
+867	13	And you said you don't take any medication?
+868	13	So right now the problem is shortness of breath the main problem?
+869	13	Ok, and you've had that since this morning?
+870	13	Tonight?
+871	13	But you didn't have anything like that before?
+872	13	How old are you if I may ask?
+873	13	Do you have any previous illnesses?
+874	13	Do you know by heart which medications you take?
+875	13	Eltyrocin?
+876	13	And do you take it every day in the morning?
+877	13	And do you take any other medications?
+878	13	And do you measure your blood pressure at home?
+879	13	And do you know how this is set up at the moment? Blood pressure and sugar?
+880	13	Very nice
+881	13	Okay, then back to the shortness of breath. Does this affect you more when you breathe in or when you breathe out?
+882	13	Where is the pressure exactly?
+883	13	OK. Do you also have pain?
+884	13	Yes I understand. But you don't have pain in your chest or any back or shoulder area?
+885	13	Can you still exercise normally?
+886	13	Is that no longer possible?
+887	13	Have you somehow retained more water in your legs? Did you notice anything there?
+888	13	Not at all?
+889	13	Oh dear
+890	13	Is it all day or more at night?
+891	13	Already a few days?
+892	13	Do you have pain when urinating?
+893	13	Not that one? Or blood in the urine?
+894	13	Pink? Since tonight?
+895	13	Have you had any urinary tract infections recently?
+896	13	Nothing that has happened to you before?
+897	13	Do you have any fever or high temperature?
+898	13	Do you live there alone?
+899	13	Have you noticed recently that you have had such a dip in performance or that you have been so run down?
+900	13	Not at all?
+901	13	Have you ever smoked or do you smoke?
+902	13	Not at all?
+903	13	That's good
+904	13	And anything else with your heart? Was there something else somehow?
+905	13	Was it always okay?
+906	13	Have you seen a cardiologist at all recently?
+907	13	Not at all? So you go...? The family doctor does that?
+908	13	When was the last time you went to the family doctor?
+909	13	Ok, and that was the last time the sugar level was checked? Blood pressure?
+910	13	Now I think I've asked you quite a lot. Do you have any questions at the moment?
+911	13	That is understandable
+912	13	What's stumbling?
+913	13	Is your heart stumbling?
+914	13	Oh right. Even since tonight?
+915	13	How often is it approximately? Every minute now, right...?
+916	13	Right now too?
+917	13	Ok, so it beats faster than normal?
+918	13	Irregular?
+919	13	And that's never been the case before?
+920	13	Well, that's important that you said that
+921	13	Oh yes, I understand that
+922	13	So you're still working full-time?
+923	13	And why? Because then you have trouble breathing?
+924	13	Why can't you lie down?
+925	13	And if the upper body is upright, then is that better?
+926	13	Your daughter sent you to the clinic?
+927	13	And you don't know that about yourself?
+928	13	Yes, we are hurrying up but it is important that we check how you are doing
+929	13	Yes I see that
+2362	38	Start by reading the preliminary information
+2363	38	"""Good morning Ms. Aimueller, I am responsible for you in the emergency room today. What brings you to me?"""
+2364	38	Cut through security question in the suspected diagnosis
+2365	38	Has something like this ever happened to you?
+2366	38	So this is the first time you've had something like this?
+2367	38	And now you have that in peace, I notice. That you can't breathe?
+2368	38	Ok, and do you feel like it got so bad from one second to the next? Or what?
+2369	38	And did you feel any pain there?
+2370	38	Do you have asthma or similar pre-existing conditions?
+2371	38	You know exactly which one, right?
+2372	38	And you've been doing well lately until this incident?
+2373	38	And you're always doing sports and you've never had anything while doing it?
+2374	38	Do you take any medications?
+2375	38	Have you had any treatments because you wanted to have children?
+2376	38	And you haven't been treated yet? Or have you already received medication?
+2377	38	And do you have a headache otherwise, right?
+2378	38	And fever or something? Have you had that?
+2379	38	And where exactly is the pain when...?
+2380	38	Ok and have you had any kind of long flight or a lately?
+2381	38	So you were always on the move?
+2382	38	And do you have a clotting disorder that causes the blood to clot too much or too little?
+2383	38	Do you get bruises easily or something?
+2384	38	No? And if you get injured, does it bleed a lot or not so much?
+2385	38	And have you ever had a leg vein thrombosis or something?
+2386	38	So you probably have the, don't you take the pill if you want to have children?
+2387	38	Have you taken them before?
+2388	38	So you've had several miscarriages? Do you know why or has this been clarified?
+2389	38	Do you know at what week of pregnancy this happened?
+2390	38	That's when you came up with the coagulation disorder?
+2391	38	Ok, but you didn't say anything about increased bleeding or anything like that?
+2392	38	Is there anyone else in your family who has a similar clotting disorder?
+2393	38	Have you ever heard of the term factor 5 Leiden syndrome?
+2394	38	And do you know if they got any medication for it?
+2395	38	Have you ever had a pulmonary embolism or leg vein thrombosis?
+2396	38	Allergies. Do you have any allergies?
+2397	38	And you said you don't have asthma
+2398	38	And do you have any other heart diseases or anything like that in your family?
+1708	28	You had shortness of breath at the weekend too? How long did you have that for?
+1709	28	Several times?
+1710	28	So you had chest pain as well?
+1711	28	Was there anything special this weekend?
+1712	28	Nothing. So it suddenly started in the quiet?
+1713	28	And did you feel particularly stressed about it the previous times?
+1714	28	That really came out of calm?
+1715	28	Ok, how long did these complaints last? How long did they last?
+1716	28	Did you constantly have shortness of breath?
+1717	28	And did it become more difficult to breathe in or did the shortness of breath become more severe when breathing out? Did you find it harder to breathe in or out?
+1718	28	Was it harder?
+1719	28	And that feeling of pressure, was it pain or was it just an uncomfortable feeling? That pressure on your chest?
+1720	28	Ok, good and you've had that a few times now. Has it been a few weeks?
+1721	28	Not so violent
+1722	28	Very good, true.
+1723	28	Well, have you had any other symptoms in the last two weeks/last week, fever or chills?
+1724	28	That you felt your heart racing?
+1725	28	And this feeling of pressure, does it spread somewhere?
+1726	28	And is it independent of location or food intake? Or does it get worse when you eat something, for example this stomach pressure?
+1727	28	Well, did you ever see the dizziness you described?
+1728	28	Did you collapse too, or were you able to prevent it?
+1729	28	And are you otherwise unimpressed when blood tests are taken? Don't you mind anything else?
+1730	28	Don't think anything
+1731	28	Do you have any previous illnesses? Any chronic ones? High blood pressure, diabetes?
+1732	28	Nothing is known. Have you had any previous surgery or any accidents?
+1733	28	Have you ever had something with your heart?
+1734	28	Do you take any medications regularly?
+1735	28	Any allergies?
+1736	28	Not OK. Food, medication, nothing?
+1737	28	What did you do for work? I assume you are retired now
+1738	28	And children and wife or do you live alone?
+1739	28	Do you smoke or have you smoked?
+1740	28	So that was a long time ago. How long did you smoke for in total? So how many years?
+1741	28	Now I'll ask you again in general: Have you noticed a headache or a cough with sputum? Something like that in that area?
+1742	28	Ok, any tummy troubles aside from your stomach?
+1743	28	Exactly, and have you ever had heartburn or gastritis? Stomach inflammation?
+1744	28	And how are you catching your breath right now? How is the air right now?
+1745	28	Better, a little bit in terms of the situation?
+1746	28	Diarrhea, noticed pain when urinating? Anything else noticeable?
+1747	28	So, Ms. Bircher, when did this start?
+1748	28	Shortness of breath now?
+1749	28	And when you have to get out of there, does it hurt? Or something like that?
+1750	28	You have to constantly, okay.
+1751	28	Did you notice that you also had chest pain or something?
+1752	28	Okay, did anything special happen to you at night or at the weekend?
+1753	28	Nothing special, okay. Do you have any other complaints?
+1754	28	Was this the first time something like this had happened?
+1755	28	Never happened before. Is it a long time since you let out the water?
+1756	28	Have you noticed that you have water in your legs?
+1757	28	This chest pain or feeling of pressure does it go somewhere else? Does it radiate into your arm, your neck, your stomach?
+1758	28	Very good. And kind of heart palpitations?
+1759	28	Ok, and something that has gone black in your mind? Or that you collapsed? Has this ever happened before?
+1760	28	Dizzy? OK.
+1761	28	Are you aware of any previous illnesses? High blood pressure, diabetes?
+1762	28	Ok, are you comfortable with that? Does the family doctor have this under control?
+1763	28	OK, operations? Have you ever had something with your heart?
+1764	28	Is there anything close to your family's heart? Father, mother once had something on their hearts?
+1765	28	Ok, good and what medications are you taking? Do you know that?
+1766	28	And are you okay with that?
+1767	28	Eltyrocin. Ok, and do you have any known allergies? Against medication?
+1768	28	Okay, and what did you do? Have you worked?
+1769	28	Do you smoke or have you smoked?
+1770	28	OK very good. And any other complaints? Headache sore throat?
+1771	28	Ok, and cough?
+1772	28	Didn't have it either?
+1773	28	And also the sputum would come out?
+1774	28	Stomach pain?
+1775	28	Painful urination?
+1776	28	Do you just have to do a lot?
+1777	28	But it doesn't burn or hurt or anything like that?
+1778	28	Ok, well then, about the shortness of breath, is it there all the time or does it go away every now and then?
+1779	28	And then it works?
+1780	28	And are you familiar with asthma or something like that?
+1781	28	Neither, ok very good.
+1782	28	When was the last check from your heart?
+1783	28	And EKG and stuff were okay too?
+1784	28	Is it brand new to you?
+1785	28	Had an accident somehow? Fell on it somewhere?
+1786	28	And you haven't had an infection either? Fever, chills?
+1787	28	So in summary, have you actually had shortness of breath for the first time since tonight?
+1788	28	Never had it otherwise?
+1789	28	And a feeling of pressure on the chest but no pain, it doesn't go anywhere or anything?
+1790	28	And where is the chest pain?
+1791	28	Up here?
+1792	28	Ok, not somehow distributed on the right or left side?
+1793	28	OK Good.
+1794	28	Plus the urination. You've had this for two days. Never had it before?
+1795	28	So, Mr. Lehner, when exactly did this start? At what time? How many hours has it been?
+1796	28	Are you having trouble breathing?
+1797	28	And where were you exactly where this started?
+1798	28	Were you outside?
+1799	28	And was there anything special? What might have upset you?
+1800	28	Has this happened before or is this the first time?
+1801	28	Ok, but whenever you were outside? So not alone?
+1802	28	And do you also feel pressure on your chest or is it just this shortness of breath thing?
+1803	28	Have you been sick in the last week? Have you had a fever, chills, anything?
+1804	28	And you already said no asthma or anything like that, are you aware of any other illnesses?
+1805	28	High blood pressure, diabetes?
+1806	28	Is nothing known?
+1807	28	Any allergies to birch?
+1808	28	Not hay fever either?
+1809	28	Medication. Do you then take medication regularly?
+1810	28	Have you had the headache for 3-4 hours?
+1811	28	Have you ever had something called a migraine?
+1812	28	What are you taking for the headache?
+1813	28	And does that help?
+1814	28	Has something like this ever happened in your family? Daddy Mommy?
+1815	28	But you've always been healthy at the family doctor's, and no one knows anything about your heart?
+1816	28	And was everything good there?
+1817	28	What did he advise you to do?
+1818	28	Do you do sports?
+1819	28	Very good
+1820	28	What are you doing?
+1821	28	Is it very stressful?
+1822	28	Is important?
+1823	28	And you also said that your hands and feet tingle?
+1824	28	And that also occurred at the same time?
+1825	28	And did you notice that you were somehow breathing faster?
+1826	28	And then you sat down or what did you do?
+1827	28	Then we sat down and then things got slow again?
+1828	28	And what is it like now?
+1829	28	Are things better?
+1830	28	And your heart is racing? Do you feel your heart racing?
+1831	28	And have you ever collapsed in this context?
+1832	28	So black in your mind, really collapsed or something?
+1833	28	Well, is anyone else trying to clarify this because you've had these attacks a few times now? Have you been to someone else or what does the family doctor say?
+1834	28	Do you live alone or do you have a girlfriend/wife?
+1835	28	Children?
+1836	28	Otherwise are you also satisfied? Are you somehow not more stressed than usual?
+1837	28	Any fears that regularly accompany you?
+1838	28	You can also be so afraid
+1839	28	But these night sweats, do you really have to change your shirt or is it just moderate?
+1840	28	Ok, but haven't you lost any weight recently?
+1841	28	You said you don't take any medication either
+1842	28	Do you smoke?
+1843	28	But never regularly? Five years a pack or something?
+1844	28	Any other drugs? Drinking alcohol regularly?
+1845	28	Have you already eaten anything before today? So before this started?
+1846	28	And drank too?
+1847	28	2 liters a day, can you do that?

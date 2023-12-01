@@ -6,3 +6,5 @@ __pycache__/
 hw1/*.json
 
 hw1/glove.*
+
+*.pth

@@ -8,3 +8,9 @@ hw1/*.json
 hw1/glove.*
 
 *.pth
+*.csv
+
+score.py
+
+*.json
+*.pt
